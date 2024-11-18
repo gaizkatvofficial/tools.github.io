@@ -24,7 +24,7 @@ let fallbackLink = "https://wartakita.github.io/player.github.io/gangguan.mp4";
     }
 
     function generateVideoLink(videoId) {
-        return `https://lebo.huminbird.cn/live/ballbar_${videoId}.m3u8`;
+        return `https://12a001a90a8c45927f7710a6ee02e8e6.v.smtcdns.net/play1nm.hnyongshun.cn/live/ballbar_${videoId}.m3u8`;
     }
 
     function isValidVideoId(id) {
