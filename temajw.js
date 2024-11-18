@@ -50,6 +50,10 @@ let fallbackLink = "https://wartakita.github.io/player.github.io/gangguan.mp4";
             height: '360px',
             autostart: false,
             mute: false,
+            sharing: {
+                link: window.location.href,
+                sites: ["facebook", "twitter", "email", "whatsapp"]
+            }
         });
 
         playerInstance.on('error', function () {
