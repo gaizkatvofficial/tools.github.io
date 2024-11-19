@@ -49,8 +49,8 @@ function initializePlayer(primaryLink, fallbackLink) {
         autostart: false,
         mute: false,
         logo: {
-            file: '', // Kosongkan jika Anda hanya ingin watermark teks.
-            link: 'https://wartakita.github.io', // Opsional: Tambahkan link jika ingin watermark dapat diklik.
+            file: 'https://da.gd/mGMveT', // Kosongkan jika Anda hanya ingin watermark teks.
+            link: '/', // Opsional: Tambahkan link jika ingin watermark dapat diklik.
             position: 'top-right', // Posisi watermark.
             text: 'vidplayerid.blogspot.com', // Tambahkan teks watermark.
             margin: 10, // Margin dari posisi.
