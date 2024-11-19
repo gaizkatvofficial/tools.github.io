@@ -1,1 +1,74 @@
-const _0x37a848=_0x33a6;(function(_0x265b8a,_0x415fa7){const _0x5a716f=_0x33a6,_0x20dba2=_0x265b8a();while(!![]){try{const _0x38325d=-parseInt(_0x5a716f(0xf6))/0x1*(parseInt(_0x5a716f(0x10a))/0x2)+parseInt(_0x5a716f(0xfa))/0x3+-parseInt(_0x5a716f(0xf8))/0x4*(parseInt(_0x5a716f(0x109))/0x5)+-parseInt(_0x5a716f(0x114))/0x6*(-parseInt(_0x5a716f(0x106))/0x7)+parseInt(_0x5a716f(0x110))/0x8+-parseInt(_0x5a716f(0xf9))/0x9+-parseInt(_0x5a716f(0x11a))/0xa*(parseInt(_0x5a716f(0x118))/0xb);if(_0x38325d===_0x415fa7)break;else _0x20dba2['push'](_0x20dba2['shift']());}catch(_0xfeec9c){_0x20dba2['push'](_0x20dba2['shift']());}}}(_0x25c1,0x746de));const fallbackLink=_0x37a848(0x10e);function toggleMenu(){const _0x4eb1be=_0x37a848,_0x44c53b=document[_0x4eb1be(0x10f)]('.navbar\x20.menu');_0x44c53b[_0x4eb1be(0xf7)]['toggle']('active');}document[_0x37a848(0x119)](_0x37a848(0x107),()=>{const _0x95fdf0=_0x37a848,_0x3b85e3=localStorage[_0x95fdf0(0x115)](_0x95fdf0(0x102))||_0x95fdf0(0xfd);document[_0x95fdf0(0xf5)](_0x95fdf0(0x10c))[_0x95fdf0(0x10b)]=_0x3b85e3,applyPlayerTheme();});function _0x33a6(_0x290b21,_0x4ef35a){const _0x25c18a=_0x25c1();return _0x33a6=function(_0x33a693,_0x259fb6){_0x33a693=_0x33a693-0xf2;let _0x3ac9a6=_0x25c18a[_0x33a693];return _0x3ac9a6;},_0x33a6(_0x290b21,_0x4ef35a);}function applyPlayerTheme(){const _0xcdb1cf=_0x37a848,_0x381ef5=document[_0xcdb1cf(0xf5)](_0xcdb1cf(0x10c))['value'][_0xcdb1cf(0x100)](),_0xe6daca=document[_0xcdb1cf(0x108)];_0x381ef5===_0xcdb1cf(0x103)?_0xe6daca['classList'][_0xcdb1cf(0xf2)](_0xcdb1cf(0x117)):_0xe6daca['classList'][_0xcdb1cf(0x116)]('dark-mode'),localStorage['setItem']('playerTheme',_0x381ef5);}function generateVideoLink(_0x412c5e){const _0x5e1e92=_0x37a848;return'https://12a001a90a8c45927f7710a6ee02e8e6.v.smtcdns.net/play1nm.hnyongshun.cn/live/ballbar_'+_0x412c5e+_0x5e1e92(0x111);}function isValidVideoId(_0x1b85ca){const _0x30a31f=_0x37a848;return/^[0-9]{4,8}$/[_0x30a31f(0x101)](_0x1b85ca);}function loadPlayer(){const _0x59bcf1=_0x37a848,_0x19ba5d=document['getElementById'](_0x59bcf1(0x10d))['value'][_0x59bcf1(0x100)]();if(!isValidVideoId(_0x19ba5d)){alert(_0x59bcf1(0xfe));return;}const _0x1c2085=generateVideoLink(_0x19ba5d);initializePlayer(_0x1c2085,fallbackLink);}function _0x25c1(){const _0x36d162=['https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiU1IXAdgrmiGv0sR8Fepm_ax-KgTuKYhh4xgH4WqwDz0GqVPMmmLJsSduCLXH8z6gp4kfXDsT53R7e8s3SUk_liyFtu7WBg0mvvR73NqQ_Nqo8F8gNjwMg_MNyEyXcWRKIceKq9G082mTjzi3fnct6qN-LNHhI-duR313rBOWPD-GROWhaNENWRhqpvAqv/s1600/Video%20player%20ID.png','1387326hkaXBC','getItem','remove','dark-mode','550561BMnoiK','addEventListener','10dBLANT','add','360px','error','getElementById','279479MhEQcM','classList','8egwxRY','2848266yGRpwL','1237368PqhrRM','Both\x20primary\x20and\x20fallback\x20videos\x20failed\x20to\x20load.','play','light','Please\x20enter\x20a\x20valid\x20numeric\x20video\x20ID\x20(4-8\x20digits).','setup','trim','test','playerTheme','dark','100%','Primary\x20video\x20failed\x20to\x20load.\x20Switching\x20to\x20fallback\x20video.','7WYbXoy','DOMContentLoaded','body','343915unRFYN','2FBFrWx','value','themeSelect','videoId','https://wartakita.github.io/player.github.io/gangguan.mp4','querySelector','4934296jTwuxG','.m3u8','<p\x20style=\x27color:\x20red;\x20text-align:\x20center;\x27>Unable\x20to\x20play\x20the\x20video.</p>'];_0x25c1=function(){return _0x36d162;};return _0x25c1();}function initializePlayer(_0x1a5261,_0x33b1db){const _0x5dd88c=_0x37a848,_0x761576=jwplayer('player')[_0x5dd88c(0xff)]({'file':_0x1a5261,'width':_0x5dd88c(0x104),'height':_0x5dd88c(0xf3),'image':_0x5dd88c(0x113),'autostart':![],'mute':![]});_0x761576['on'](_0x5dd88c(0xf4),()=>{const _0x37d508=_0x5dd88c;alert(_0x37d508(0x105)),_0x761576['load']([{'file':_0x33b1db}]),_0x761576[_0x37d508(0xfc)](),_0x761576['on'](_0x37d508(0xf4),()=>{const _0x59c70b=_0x37d508;alert(_0x59c70b(0xfb)),document[_0x59c70b(0xf5)]('player')['innerHTML']=_0x59c70b(0x112);});});}
+const fallbackLink = 'https://wartakita.github.io/player.github.io/gangguan.mp4';
+
+function toggleMenu() {
+    const menu = document.querySelector('.navbar .menu');
+    menu.classList.toggle('active');
+}
+
+document.addEventListener('DOMContentLoaded', () => {
+    const theme = localStorage.getItem('playerTheme') || 'light';
+    document.getElementById('themeSelect').value = theme;
+    applyPlayerTheme();
+});
+
+function applyPlayerTheme() {
+    const theme = document.getElementById('themeSelect').value.trim();
+    const body = document.body;
+    if (theme === 'dark') {
+        body.classList.add('dark-mode');
+    } else {
+        body.classList.remove('dark-mode');
+    }
+    localStorage.setItem('playerTheme', theme);
+}
+
+function generateVideoLink(videoId) {
+    return `https://12a001a90a8c45927f7710a6ee02e8e6.v.smtcdns.net/play1nm.hnyongshun.cn/live/ballbar_${videoId}.m3u8`;
+}
+
+function isValidVideoId(videoId) {
+    return /^[0-9]{4,8}$/.test(videoId);
+}
+
+function loadPlayer() {
+    const videoId = document.getElementById('videoId').value.trim();
+    if (!isValidVideoId(videoId)) {
+        alert('Please enter a valid numeric video ID (4-8 digits).');
+        return;
+    }
+    const primaryLink = generateVideoLink(videoId);
+    initializePlayer(primaryLink, fallbackLink);
+}
+
+function initializePlayer(primaryLink, fallbackLink) {
+    const player = jwplayer('player').setup({
+        file: primaryLink,
+        width: '100%',
+        height: '360px',
+        image: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiU1IXAdgrmiGv0sR8Fepm_ax-KgTuKYhh4xgH4WqwDz0GqVPMmmLJsSduCLXH8z6gp4kfXDsT53R7e8s3SUk_liyFtu7WBg0mvvR73NqQ_Nqo8F8gNjwMg_MNyEyXcWRKIceKq9G082mTjzi3fnct6qN-LNHhI-duR313rBOWPD-GROWhaNENWRhqpvAqv/s1600/Video%20player%20ID.png',
+        autostart: false,
+        mute: false,
+        logo: {
+            file: '', // Kosongkan jika Anda hanya ingin watermark teks.
+            link: 'https://wartakita.github.io', // Opsional: Tambahkan link jika ingin watermark dapat diklik.
+            position: 'top-right', // Posisi watermark.
+            text: 'vidplayerid.blogspot.com', // Tambahkan teks watermark.
+            margin: 10, // Margin dari posisi.
+            fontSize: 16, // Ukuran font teks.
+            color: '#FFFFFF', // Warna teks watermark.
+            background: 'rgba(0, 0, 0, 0.5)', // Latar belakang teks.
+            padding: 5, // Padding dalam watermark.
+        },
+    });
+
+    player.on('error', () => {
+        alert('Primary video failed to load. Switching to fallback video.');
+        player.load([{ file: fallbackLink }]);
+        player.play();
+        player.on('error', () => {
+            alert('Both primary and fallback videos failed to load.');
+            document.getElementById('player').innerHTML =
+                "<p style='color: red; text-align: center;'>Unable to play the video.</p>";
+        });
+    });
+}
