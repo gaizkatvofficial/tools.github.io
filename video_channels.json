@@ -1,0 +1,992 @@
+[
+    {
+        "name": "History",
+        "file": "https://...",
+        "category": "Education",
+        "drm": {
+            "clearkey": {
+                "keyId": "2ccaa7d9731c2e69fa5344c5a547b836",
+                "key": "d23fb6a3c73eb7ab8ad19ca841db0fb5"
+            }
+        }
+    },
+    {
+        "name": "iNews",
+        "file": "https://...",
+        "category": "News",
+        "drm": {
+            "clearkey": {
+                "keyId": "a31cf5136789514b7e12b9cc99307c84",
+                "key": "980e54d671ffc2b2f4cf54e75cae0ac2"
+            }
+        }
+    },
+    {
+        "name": "MNC TV",
+        "file": "https://...",
+        "category": "Entertainment",
+        "drm": {
+            "clearkey": {
+                "keyId": "828e0aba9825c3546a2831e4c0c36f7f",
+                "key": "f85d3dcd38981368ab3da597e97ebdcc"
+            }
+        }
+    },
+    {
+        "name": "GTV",
+        "file": "https://...",
+        "category": "Entertainment",
+        "drm": {
+            "clearkey": {
+                "keyId": "88f6c7cbd793374cb5f12d7e26dcd63b",
+                "key": "e82daa7c7bfb03d99327463fdbd37336"
+            }
+        }
+    },
+    {
+        "name": "RCTI",
+        "file": "https://...",
+        "category": "General",
+        "drm": {
+            "clearkey": {
+                "keyId": "9ba3e153ef8956d6e2b0684fcf74f58f",
+                "key": "dbc28cb5c6426080f984a5b6d436bb30"
+            }
+        }
+    },
+    {
+        "name": "Music TV",
+        "file": "https://...",
+        "category": "Music",
+        "drm": {
+            "clearkey": {
+                "keyId": "0bea88ab972e06760a04712cc423d841",
+                "key": "4039d607f88f1b1f677e4beb6ee66637"
+            }
+        }
+    },
+    {
+        "name": "TVMU",
+        "file": "https://...",
+        "category": "Religion",
+        "drm": {
+            "clearkey": {
+                "keyId": "2fa7625e3470d5e9429f64150614f9a5",
+                "key": "c495ad0e82e2266fd207934327c71ce3"
+            }
+        }
+    },
+    {
+        "name": "Reformed 21",
+        "file": "https://...",
+        "category": "Religion",
+        "drm": {
+            "clearkey": {
+                "keyId": "1acfe74d40e91e0368324b074c256bab",
+                "key": "f3211e3f8079a8584ac77afda2b0e119"
+            }
+        }
+    },
+    {
+        "name": "Kids TV",
+        "file": "https://...",
+        "category": "Kids",
+        "drm": {
+            "clearkey": {
+                "keyId": "17340c4223a4674b1b7da8d8d9e11174",
+                "key": "11a73aad2c75ddf338840b08fb915993"
+            }
+        }
+    },
+    {
+        "name": "Fight Sports",
+        "file": "https://...",
+        "category": "Sports",
+        "drm": {
+            "clearkey": {
+                "keyId": "d2159ffe3be22ed4916a6abe4d58d265",
+                "key": "3e4efcec08d5d5c18a403b7048a43638"
+            }
+        }
+    },
+    {
+        "name": "Channel 11",
+        "file": "https://example.com/channel11.mpd",
+        "category": "General",
+        "drm": {
+            "clearkey": {
+                "keyId": "dummyKeyId11",
+                "key": "dummyKey11"
+            }
+        }
+    },
+    {
+        "name": "Channel 12",
+        "file": "https://example.com/channel12.mpd",
+        "category": "General",
+        "drm": {
+            "clearkey": {
+                "keyId": "dummyKeyId12",
+                "key": "dummyKey12"
+            }
+        }
+    },
+    {
+        "name": "Channel 13",
+        "file": "https://example.com/channel13.mpd",
+        "category": "General",
+        "drm": {
+            "clearkey": {
+                "keyId": "dummyKeyId13",
+                "key": "dummyKey13"
+            }
+        }
+    },
+    {
+        "name": "Channel 14",
+        "file": "https://example.com/channel14.mpd",
+        "category": "General",
+        "drm": {
+            "clearkey": {
+                "keyId": "dummyKeyId14",
+                "key": "dummyKey14"
+            }
+        }
+    },
+    {
+        "name": "Channel 15",
+        "file": "https://example.com/channel15.mpd",
+        "category": "Sports",
+        "drm": {
+            "clearkey": {
+                "keyId": "dummyKeyId15",
+                "key": "dummyKey15"
+            }
+        }
+    },
+    {
+        "name": "Channel 16",
+        "file": "https://example.com/channel16.mpd",
+        "category": "General",
+        "drm": {
+            "clearkey": {
+                "keyId": "dummyKeyId16",
+                "key": "dummyKey16"
+            }
+        }
+    },
+    {
+        "name": "Channel 17",
+        "file": "https://example.com/channel17.mpd",
+        "category": "General",
+        "drm": {
+            "clearkey": {
+                "keyId": "dummyKeyId17",
+                "key": "dummyKey17"
+            }
+        }
+    },
+    {
+        "name": "Channel 18",
+        "file": "https://example.com/channel18.mpd",
+        "category": "General",
+        "drm": {
+            "clearkey": {
+                "keyId": "dummyKeyId18",
+                "key": "dummyKey18"
+            }
+        }
+    },
+    {
+        "name": "Channel 19",
+        "file": "https://example.com/channel19.mpd",
+        "category": "General",
+        "drm": {
+            "clearkey": {
+                "keyId": "dummyKeyId19",
+                "key": "dummyKey19"
+            }
+        }
+    },
+    {
+        "name": "Channel 20",
+        "file": "https://example.com/channel20.mpd",
+        "category": "Sports",
+        "drm": {
+            "clearkey": {
+                "keyId": "dummyKeyId20",
+                "key": "dummyKey20"
+            }
+        }
+    },
+    {
+        "name": "Channel 21",
+        "file": "https://example.com/channel21.mpd",
+        "category": "General",
+        "drm": {
+            "clearkey": {
+                "keyId": "dummyKeyId21",
+                "key": "dummyKey21"
+            }
+        }
+    },
+    {
+        "name": "Channel 22",
+        "file": "https://example.com/channel22.mpd",
+        "category": "General",
+        "drm": {
+            "clearkey": {
+                "keyId": "dummyKeyId22",
+                "key": "dummyKey22"
+            }
+        }
+    },
+    {
+        "name": "Channel 23",
+        "file": "https://example.com/channel23.mpd",
+        "category": "General",
+        "drm": {
+            "clearkey": {
+                "keyId": "dummyKeyId23",
+                "key": "dummyKey23"
+            }
+        }
+    },
+    {
+        "name": "Channel 24",
+        "file": "https://example.com/channel24.mpd",
+        "category": "General",
+        "drm": {
+            "clearkey": {
+                "keyId": "dummyKeyId24",
+                "key": "dummyKey24"
+            }
+        }
+    },
+    {
+        "name": "Channel 25",
+        "file": "https://example.com/channel25.mpd",
+        "category": "Sports",
+        "drm": {
+            "clearkey": {
+                "keyId": "dummyKeyId25",
+                "key": "dummyKey25"
+            }
+        }
+    },
+    {
+        "name": "Channel 26",
+        "file": "https://example.com/channel26.mpd",
+        "category": "General",
+        "drm": {
+            "clearkey": {
+                "keyId": "dummyKeyId26",
+                "key": "dummyKey26"
+            }
+        }
+    },
+    {
+        "name": "Channel 27",
+        "file": "https://example.com/channel27.mpd",
+        "category": "General",
+        "drm": {
+            "clearkey": {
+                "keyId": "dummyKeyId27",
+                "key": "dummyKey27"
+            }
+        }
+    },
+    {
+        "name": "Channel 28",
+        "file": "https://example.com/channel28.mpd",
+        "category": "General",
+        "drm": {
+            "clearkey": {
+                "keyId": "dummyKeyId28",
+                "key": "dummyKey28"
+            }
+        }
+    },
+    {
+        "name": "Channel 29",
+        "file": "https://example.com/channel29.mpd",
+        "category": "General",
+        "drm": {
+            "clearkey": {
+                "keyId": "dummyKeyId29",
+                "key": "dummyKey29"
+            }
+        }
+    },
+    {
+        "name": "Channel 30",
+        "file": "https://example.com/channel30.mpd",
+        "category": "Sports",
+        "drm": {
+            "clearkey": {
+                "keyId": "dummyKeyId30",
+                "key": "dummyKey30"
+            }
+        }
+    },
+    {
+        "name": "Channel 31",
+        "file": "https://example.com/channel31.mpd",
+        "category": "General",
+        "drm": {
+            "clearkey": {
+                "keyId": "dummyKeyId31",
+                "key": "dummyKey31"
+            }
+        }
+    },
+    {
+        "name": "Channel 32",
+        "file": "https://example.com/channel32.mpd",
+        "category": "General",
+        "drm": {
+            "clearkey": {
+                "keyId": "dummyKeyId32",
+                "key": "dummyKey32"
+            }
+        }
+    },
+    {
+        "name": "Channel 33",
+        "file": "https://example.com/channel33.mpd",
+        "category": "General",
+        "drm": {
+            "clearkey": {
+                "keyId": "dummyKeyId33",
+                "key": "dummyKey33"
+            }
+        }
+    },
+    {
+        "name": "Channel 34",
+        "file": "https://example.com/channel34.mpd",
+        "category": "General",
+        "drm": {
+            "clearkey": {
+                "keyId": "dummyKeyId34",
+                "key": "dummyKey34"
+            }
+        }
+    },
+    {
+        "name": "Channel 35",
+        "file": "https://example.com/channel35.mpd",
+        "category": "Sports",
+        "drm": {
+            "clearkey": {
+                "keyId": "dummyKeyId35",
+                "key": "dummyKey35"
+            }
+        }
+    },
+    {
+        "name": "Channel 36",
+        "file": "https://example.com/channel36.mpd",
+        "category": "General",
+        "drm": {
+            "clearkey": {
+                "keyId": "dummyKeyId36",
+                "key": "dummyKey36"
+            }
+        }
+    },
+    {
+        "name": "Channel 37",
+        "file": "https://example.com/channel37.mpd",
+        "category": "General",
+        "drm": {
+            "clearkey": {
+                "keyId": "dummyKeyId37",
+                "key": "dummyKey37"
+            }
+        }
+    },
+    {
+        "name": "Channel 38",
+        "file": "https://example.com/channel38.mpd",
+        "category": "General",
+        "drm": {
+            "clearkey": {
+                "keyId": "dummyKeyId38",
+                "key": "dummyKey38"
+            }
+        }
+    },
+    {
+        "name": "Channel 39",
+        "file": "https://example.com/channel39.mpd",
+        "category": "General",
+        "drm": {
+            "clearkey": {
+                "keyId": "dummyKeyId39",
+                "key": "dummyKey39"
+            }
+        }
+    },
+    {
+        "name": "Channel 40",
+        "file": "https://example.com/channel40.mpd",
+        "category": "Sports",
+        "drm": {
+            "clearkey": {
+                "keyId": "dummyKeyId40",
+                "key": "dummyKey40"
+            }
+        }
+    },
+    {
+        "name": "Channel 41",
+        "file": "https://example.com/channel41.mpd",
+        "category": "General",
+        "drm": {
+            "clearkey": {
+                "keyId": "dummyKeyId41",
+                "key": "dummyKey41"
+            }
+        }
+    },
+    {
+        "name": "Channel 42",
+        "file": "https://example.com/channel42.mpd",
+        "category": "General",
+        "drm": {
+            "clearkey": {
+                "keyId": "dummyKeyId42",
+                "key": "dummyKey42"
+            }
+        }
+    },
+    {
+        "name": "Channel 43",
+        "file": "https://example.com/channel43.mpd",
+        "category": "General",
+        "drm": {
+            "clearkey": {
+                "keyId": "dummyKeyId43",
+                "key": "dummyKey43"
+            }
+        }
+    },
+    {
+        "name": "Channel 44",
+        "file": "https://example.com/channel44.mpd",
+        "category": "General",
+        "drm": {
+            "clearkey": {
+                "keyId": "dummyKeyId44",
+                "key": "dummyKey44"
+            }
+        }
+    },
+    {
+        "name": "Channel 45",
+        "file": "https://example.com/channel45.mpd",
+        "category": "Sports",
+        "drm": {
+            "clearkey": {
+                "keyId": "dummyKeyId45",
+                "key": "dummyKey45"
+            }
+        }
+    },
+    {
+        "name": "Channel 46",
+        "file": "https://example.com/channel46.mpd",
+        "category": "General",
+        "drm": {
+            "clearkey": {
+                "keyId": "dummyKeyId46",
+                "key": "dummyKey46"
+            }
+        }
+    },
+    {
+        "name": "Channel 47",
+        "file": "https://example.com/channel47.mpd",
+        "category": "General",
+        "drm": {
+            "clearkey": {
+                "keyId": "dummyKeyId47",
+                "key": "dummyKey47"
+            }
+        }
+    },
+    {
+        "name": "Channel 48",
+        "file": "https://example.com/channel48.mpd",
+        "category": "General",
+        "drm": {
+            "clearkey": {
+                "keyId": "dummyKeyId48",
+                "key": "dummyKey48"
+            }
+        }
+    },
+    {
+        "name": "Channel 49",
+        "file": "https://example.com/channel49.mpd",
+        "category": "General",
+        "drm": {
+            "clearkey": {
+                "keyId": "dummyKeyId49",
+                "key": "dummyKey49"
+            }
+        }
+    },
+    {
+        "name": "Channel 50",
+        "file": "https://example.com/channel50.mpd",
+        "category": "Sports",
+        "drm": {
+            "clearkey": {
+                "keyId": "dummyKeyId50",
+                "key": "dummyKey50"
+            }
+        }
+    },
+    {
+        "name": "Channel 51",
+        "file": "https://example.com/channel51.mpd",
+        "category": "General",
+        "drm": {
+            "clearkey": {
+                "keyId": "dummyKeyId51",
+                "key": "dummyKey51"
+            }
+        }
+    },
+    {
+        "name": "Channel 52",
+        "file": "https://example.com/channel52.mpd",
+        "category": "General",
+        "drm": {
+            "clearkey": {
+                "keyId": "dummyKeyId52",
+                "key": "dummyKey52"
+            }
+        }
+    },
+    {
+        "name": "Channel 53",
+        "file": "https://example.com/channel53.mpd",
+        "category": "General",
+        "drm": {
+            "clearkey": {
+                "keyId": "dummyKeyId53",
+                "key": "dummyKey53"
+            }
+        }
+    },
+    {
+        "name": "Channel 54",
+        "file": "https://example.com/channel54.mpd",
+        "category": "General",
+        "drm": {
+            "clearkey": {
+                "keyId": "dummyKeyId54",
+                "key": "dummyKey54"
+            }
+        }
+    },
+    {
+        "name": "Channel 55",
+        "file": "https://example.com/channel55.mpd",
+        "category": "Sports",
+        "drm": {
+            "clearkey": {
+                "keyId": "dummyKeyId55",
+                "key": "dummyKey55"
+            }
+        }
+    },
+    {
+        "name": "Channel 56",
+        "file": "https://example.com/channel56.mpd",
+        "category": "General",
+        "drm": {
+            "clearkey": {
+                "keyId": "dummyKeyId56",
+                "key": "dummyKey56"
+            }
+        }
+    },
+    {
+        "name": "Channel 57",
+        "file": "https://example.com/channel57.mpd",
+        "category": "General",
+        "drm": {
+            "clearkey": {
+                "keyId": "dummyKeyId57",
+                "key": "dummyKey57"
+            }
+        }
+    },
+    {
+        "name": "Channel 58",
+        "file": "https://example.com/channel58.mpd",
+        "category": "General",
+        "drm": {
+            "clearkey": {
+                "keyId": "dummyKeyId58",
+                "key": "dummyKey58"
+            }
+        }
+    },
+    {
+        "name": "Channel 59",
+        "file": "https://example.com/channel59.mpd",
+        "category": "General",
+        "drm": {
+            "clearkey": {
+                "keyId": "dummyKeyId59",
+                "key": "dummyKey59"
+            }
+        }
+    },
+    {
+        "name": "Channel 60",
+        "file": "https://example.com/channel60.mpd",
+        "category": "Sports",
+        "drm": {
+            "clearkey": {
+                "keyId": "dummyKeyId60",
+                "key": "dummyKey60"
+            }
+        }
+    },
+    {
+        "name": "Channel 61",
+        "file": "https://example.com/channel61.mpd",
+        "category": "General",
+        "drm": {
+            "clearkey": {
+                "keyId": "dummyKeyId61",
+                "key": "dummyKey61"
+            }
+        }
+    },
+    {
+        "name": "Channel 62",
+        "file": "https://example.com/channel62.mpd",
+        "category": "General",
+        "drm": {
+            "clearkey": {
+                "keyId": "dummyKeyId62",
+                "key": "dummyKey62"
+            }
+        }
+    },
+    {
+        "name": "Channel 63",
+        "file": "https://example.com/channel63.mpd",
+        "category": "General",
+        "drm": {
+            "clearkey": {
+                "keyId": "dummyKeyId63",
+                "key": "dummyKey63"
+            }
+        }
+    },
+    {
+        "name": "Channel 64",
+        "file": "https://example.com/channel64.mpd",
+        "category": "General",
+        "drm": {
+            "clearkey": {
+                "keyId": "dummyKeyId64",
+                "key": "dummyKey64"
+            }
+        }
+    },
+    {
+        "name": "Channel 65",
+        "file": "https://example.com/channel65.mpd",
+        "category": "Sports",
+        "drm": {
+            "clearkey": {
+                "keyId": "dummyKeyId65",
+                "key": "dummyKey65"
+            }
+        }
+    },
+    {
+        "name": "Channel 66",
+        "file": "https://example.com/channel66.mpd",
+        "category": "General",
+        "drm": {
+            "clearkey": {
+                "keyId": "dummyKeyId66",
+                "key": "dummyKey66"
+            }
+        }
+    },
+    {
+        "name": "Channel 67",
+        "file": "https://example.com/channel67.mpd",
+        "category": "General",
+        "drm": {
+            "clearkey": {
+                "keyId": "dummyKeyId67",
+                "key": "dummyKey67"
+            }
+        }
+    },
+    {
+        "name": "Channel 68",
+        "file": "https://example.com/channel68.mpd",
+        "category": "General",
+        "drm": {
+            "clearkey": {
+                "keyId": "dummyKeyId68",
+                "key": "dummyKey68"
+            }
+        }
+    },
+    {
+        "name": "Channel 69",
+        "file": "https://example.com/channel69.mpd",
+        "category": "General",
+        "drm": {
+            "clearkey": {
+                "keyId": "dummyKeyId69",
+                "key": "dummyKey69"
+            }
+        }
+    },
+    {
+        "name": "Channel 70",
+        "file": "https://example.com/channel70.mpd",
+        "category": "Sports",
+        "drm": {
+            "clearkey": {
+                "keyId": "dummyKeyId70",
+                "key": "dummyKey70"
+            }
+        }
+    },
+    {
+        "name": "Channel 71",
+        "file": "https://example.com/channel71.mpd",
+        "category": "General",
+        "drm": {
+            "clearkey": {
+                "keyId": "dummyKeyId71",
+                "key": "dummyKey71"
+            }
+        }
+    },
+    {
+        "name": "Channel 72",
+        "file": "https://example.com/channel72.mpd",
+        "category": "General",
+        "drm": {
+            "clearkey": {
+                "keyId": "dummyKeyId72",
+                "key": "dummyKey72"
+            }
+        }
+    },
+    {
+        "name": "Channel 73",
+        "file": "https://example.com/channel73.mpd",
+        "category": "General",
+        "drm": {
+            "clearkey": {
+                "keyId": "dummyKeyId73",
+                "key": "dummyKey73"
+            }
+        }
+    },
+    {
+        "name": "Channel 74",
+        "file": "https://example.com/channel74.mpd",
+        "category": "General",
+        "drm": {
+            "clearkey": {
+                "keyId": "dummyKeyId74",
+                "key": "dummyKey74"
+            }
+        }
+    },
+    {
+        "name": "Channel 75",
+        "file": "https://example.com/channel75.mpd",
+        "category": "Sports",
+        "drm": {
+            "clearkey": {
+                "keyId": "dummyKeyId75",
+                "key": "dummyKey75"
+            }
+        }
+    },
+    {
+        "name": "Channel 76",
+        "file": "https://example.com/channel76.mpd",
+        "category": "General",
+        "drm": {
+            "clearkey": {
+                "keyId": "dummyKeyId76",
+                "key": "dummyKey76"
+            }
+        }
+    },
+    {
+        "name": "Channel 77",
+        "file": "https://example.com/channel77.mpd",
+        "category": "General",
+        "drm": {
+            "clearkey": {
+                "keyId": "dummyKeyId77",
+                "key": "dummyKey77"
+            }
+        }
+    },
+    {
+        "name": "Channel 78",
+        "file": "https://example.com/channel78.mpd",
+        "category": "General",
+        "drm": {
+            "clearkey": {
+                "keyId": "dummyKeyId78",
+                "key": "dummyKey78"
+            }
+        }
+    },
+    {
+        "name": "Channel 79",
+        "file": "https://example.com/channel79.mpd",
+        "category": "General",
+        "drm": {
+            "clearkey": {
+                "keyId": "dummyKeyId79",
+                "key": "dummyKey79"
+            }
+        }
+    },
+    {
+        "name": "Channel 80",
+        "file": "https://example.com/channel80.mpd",
+        "category": "Sports",
+        "drm": {
+            "clearkey": {
+                "keyId": "dummyKeyId80",
+                "key": "dummyKey80"
+            }
+        }
+    },
+    {
+        "name": "Channel 81",
+        "file": "https://example.com/channel81.mpd",
+        "category": "General",
+        "drm": {
+            "clearkey": {
+                "keyId": "dummyKeyId81",
+                "key": "dummyKey81"
+            }
+        }
+    },
+    {
+        "name": "Channel 82",
+        "file": "https://example.com/channel82.mpd",
+        "category": "General",
+        "drm": {
+            "clearkey": {
+                "keyId": "dummyKeyId82",
+                "key": "dummyKey82"
+            }
+        }
+    },
+    {
+        "name": "Channel 83",
+        "file": "https://example.com/channel83.mpd",
+        "category": "General",
+        "drm": {
+            "clearkey": {
+                "keyId": "dummyKeyId83",
+                "key": "dummyKey83"
+            }
+        }
+    },
+    {
+        "name": "Channel 84",
+        "file": "https://example.com/channel84.mpd",
+        "category": "General",
+        "drm": {
+            "clearkey": {
+                "keyId": "dummyKeyId84",
+                "key": "dummyKey84"
+            }
+        }
+    },
+    {
+        "name": "Channel 85",
+        "file": "https://example.com/channel85.mpd",
+        "category": "Sports",
+        "drm": {
+            "clearkey": {
+                "keyId": "dummyKeyId85",
+                "key": "dummyKey85"
+            }
+        }
+    },
+    {
+        "name": "Channel 86",
+        "file": "https://example.com/channel86.mpd",
+        "category": "General",
+        "drm": {
+            "clearkey": {
+                "keyId": "dummyKeyId86",
+                "key": "dummyKey86"
+            }
+        }
+    },
+    {
+        "name": "Channel 87",
+        "file": "https://example.com/channel87.mpd",
+        "category": "General",
+        "drm": {
+            "clearkey": {
+                "keyId": "dummyKeyId87",
+                "key": "dummyKey87"
+            }
+        }
+    },
+    {
+        "name": "Channel 88",
+        "file": "https://example.com/channel88.mpd",
+        "category": "General",
+        "drm": {
+            "clearkey": {
+                "keyId": "dummyKeyId88",
+                "key": "dummyKey88"
+            }
+        }
+    },
+    {
+        "name": "Channel 89",
+        "file": "https://example.com/channel89.mpd",
+        "category": "General",
+        "drm": {
+            "clearkey": {
+                "keyId": "dummyKeyId89",
+                "key": "dummyKey89"
+            }
+        }
+    },
+    {
+        "name": "Channel 90",
+        "file": "https://example.com/channel90.mpd",
+        "category": "Sports",
+        "drm": {
+            "clearkey": {
+                "keyId": "dummyKeyId90",
+                "key": "dummyKey90"
+            }
+        }
+    }
+]
