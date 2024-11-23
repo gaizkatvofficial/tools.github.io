@@ -17,6 +17,7 @@ const videoChannels = [
         name: "iNews",
         category: "Berita",
         file: "https://av-ch-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd",
+        fallbackFile: "https://wartakita.github.io/player.github.io/gangguan.mp4",
         description: "Saluran berita terkini dan informasi.",
         icon: "https://da.gd/w5SoNu",
         drm: {
@@ -30,6 +31,7 @@ const videoChannels = [
         name: "MNC TV",
         category: "Hiburan",
         file: "https://av-ch-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd",
+        fallbackFile: "https://wartakita.github.io/player.github.io/gangguan.mp4",
         description: "Saluran hiburan dan acara keluarga.",
         icon: "https://da.gd/w5SoNu",
         drm: {
@@ -43,6 +45,7 @@ const videoChannels = [
         name: "GTV",
         category: "Hiburan",
         file: "https://av-ch-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd",
+        fallbackFile: "https://wartakita.github.io/player.github.io/gangguan.mp4",
         description: "Saluran hiburan dan program unggulan.",
         icon: "https://da.gd/w5SoNu",
         drm: {
@@ -56,6 +59,7 @@ const videoChannels = [
         name: "RCTI",
         category: "Hiburan",
         file: "https://av-ch-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd",
+        fallbackFile: "https://wartakita.github.io/player.github.io/gangguan.mp4",
         description: "Saluran program drama, film, dan berita.",
         icon: "https://da.gd/w5SoNu",
         drm: {
@@ -65,10 +69,11 @@ const videoChannels = [
             }
         }
     },
-{
+    {
         name: "Music TV",
         category: "Music",
         file: "https://av-ch-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd",
+        fallbackFile: "https://wartakita.github.io/player.github.io/gangguan.mp4",
         description: "Music channel featuring the latest hits.",
         icon: "https://da.gd/w5SoNu",
         drm: {
@@ -82,6 +87,7 @@ const videoChannels = [
         name: "TVMU",
         category: "Religious",
         file: "https://av-ch-cdn.mncnow.id/live/eds/TVMuhammadiyah/sa_dash_vmx/TVMuhammadiyah.mpd",
+        fallbackFile: "https://wartakita.github.io/player.github.io/gangguan.mp4",
         description: "Islamic education and values.",
         icon: "https://da.gd/w5SoNu",
         drm: {
@@ -95,6 +101,7 @@ const videoChannels = [
         name: "Reformed 21",
         category: "Religious",
         file: "https://av-ch-cdn.mncnow.id/live/eds/Reformed21/sa_dash_vmx/Reformed21.mpd",
+        fallbackFile: "https://wartakita.github.io/player.github.io/gangguan.mp4",
         description: "Christian programs and sermons.",
         icon: "https://da.gd/w5SoNu",
         drm: {
@@ -108,6 +115,7 @@ const videoChannels = [
         name: "Kids TV",
         category: "Kids",
         file: "https://av-ch-cdn.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd",
+        fallbackFile: "https://wartakita.github.io/player.github.io/gangguan.mp4",
         description: "Fun and educational programs for kids.",
         icon: "https://da.gd/w5SoNu",
         drm: {
@@ -121,6 +129,7 @@ const videoChannels = [
         name: "Fight Sports",
         category: "Sports",
         file: "https://av-ch-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd",
+        fallbackFile: "https://wartakita.github.io/player.github.io/gangguan.mp4",
         description: "Combat sports and action-packed programs.",
         icon: "https://da.gd/w5SoNu",
         drm: {
@@ -134,6 +143,7 @@ const videoChannels = [
         name: "TVRI",
         category: "News",
         file: "https://av-ch-cdn.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd",
+        fallbackFile: "https://wartakita.github.io/player.github.io/gangguan.mp4",
         description: "Indonesia's state-owned television station.",
         icon: "https://da.gd/w5SoNu",
         drm: {
@@ -147,6 +157,7 @@ const videoChannels = [
         name: "MNC Sport 1",
         category: "Sports",
         file: "https://av-ch-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd",
+        fallbackFile: "https://wartakita.github.io/player.github.io/gangguan.mp4",
         description: "Comprehensive sports coverage.",
         icon: "https://da.gd/w5SoNu",
         drm: {
@@ -156,10 +167,11 @@ const videoChannels = [
             }
         }
     },
-{
+    {
         name: "MNC Sport 2",
         category: "Sports",
         file: "https://av-ch-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd",
+        fallbackFile: "https://wartakita.github.io/player.github.io/gangguan.mp4",
         description: "Your go-to channel for sports and live events.",
         icon: "https://da.gd/w5SoNu",
         drm: {
@@ -173,6 +185,7 @@ const videoChannels = [
         name: "MNC Sport 3",
         category: "Sports",
         file: "https://av-ch-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd",
+        fallbackFile: "https://wartakita.github.io/player.github.io/gangguan.mp4",
         description: "Highlights and live coverage of soccer events.",
         icon: "https://da.gd/w5SoNu",
         drm: {
@@ -186,6 +199,7 @@ const videoChannels = [
         name: "Soccer Channel",
         category: "Sports",
         file: "https://av-ch-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd",
+        fallbackFile: "https://wartakita.github.io/player.github.io/gangguan.mp4",
         description: "Exclusive channel for soccer fans.",
         icon: "https://da.gd/w5SoNu",
         drm: {
@@ -199,6 +213,7 @@ const videoChannels = [
         name: "ANTV",
         category: "Entertainment",
         file: "https://av-ch-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd",
+        fallbackFile: "https://wartakita.github.io/player.github.io/gangguan.mp4",
         description: "Indonesian entertainment channel.",
         icon: "https://da.gd/w5SoNu",
         drm: {
@@ -212,6 +227,7 @@ const videoChannels = [
         name: "Net TV",
         category: "Entertainment",
         file: "https://av-ch-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd",
+        fallbackFile: "https://wartakita.github.io/player.github.io/gangguan.mp4",
         description: "Indonesia's trendiest entertainment channel.",
         icon: "https://da.gd/w5SoNu",
         drm: {
@@ -225,6 +241,7 @@ const videoChannels = [
         name: "Galaxy Premium",
         category: "Movies",
         file: "https://av-ch-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd",
+        fallbackFile: "https://wartakita.github.io/player.github.io/gangguan.mp4",
         description: "Premium movies and exclusive content.",
         icon: "https://da.gd/w5SoNu",
         drm: {
@@ -238,6 +255,7 @@ const videoChannels = [
         name: "Galaxy",
         category: "Movies",
         file: "https://av-ch-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd",
+        fallbackFile: "https://wartakita.github.io/player.github.io/gangguan.mp4",
         description: "Exciting movies and binge-worthy series.",
         icon: "https://da.gd/w5SoNu",
         drm: {
@@ -251,6 +269,7 @@ const videoChannels = [
         name: "TVN Premium Indonesia",
         category: "Entertainment",
         file: "https://av-ch-cdn.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd",
+        fallbackFile: "https://wartakita.github.io/player.github.io/gangguan.mp4",
         description: "Top-tier entertainment from Asia.",
         icon: "https://da.gd/w5SoNu",
         drm: {
@@ -264,6 +283,7 @@ const videoChannels = [
         name: "KIX",
         category: "Action",
         file: "https://av-ch-cdn.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd",
+        fallbackFile: "https://wartakita.github.io/player.github.io/gangguan.mp4",
         description: "Action-packed movies and shows.",
         icon: "https://da.gd/w5SoNu",
         drm: {
@@ -277,6 +297,7 @@ const videoChannels = [
         name: "Cinemax Asia",
         category: "Movies",
         file: "https://av-ch-cdn.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd",
+        fallbackFile: "https://wartakita.github.io/player.github.io/gangguan.mp4",
         description: "Latest blockbuster movies.",
         icon: "https://da.gd/w5SoNu",
         drm: {
@@ -290,6 +311,7 @@ const videoChannels = [
         name: "Celestial Classic Movies",
         category: "Movies",
         file: "https://av-ch-cdn.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd",
+        fallbackFile: "https://wartakita.github.io/player.github.io/gangguan.mp4",
         description: "Classic movies from Asia.",
         icon: "https://da.gd/w5SoNu",
         drm: {
@@ -303,6 +325,7 @@ const videoChannels = [
         name: "Animax Asia",
         category: "Anime",
         file: "https://av-ch-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd",
+        fallbackFile: "https://wartakita.github.io/player.github.io/gangguan.mp4",
         description: "Anime channel featuring the best series.",
         icon: "https://da.gd/w5SoNu",
         drm: {
@@ -316,6 +339,7 @@ const videoChannels = [
         name: "Nickelodeon South East Asia",
         category: "Kids",
         file: "https://av-ch-cdn.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd",
+        fallbackFile: "https://wartakita.github.io/player.github.io/gangguan.mp4",
         description: "Cartoons and kids' programs.",
         icon: "https://da.gd/w5SoNu",
         drm: {
@@ -325,10 +349,11 @@ const videoChannels = [
             }
         }
     },
-{
+    {
         name: "Nick Jr Asia",
         category: "Kids",
         file: "https://av-ch-cdn.mncnow.id/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd",
+        fallbackFile: "https://wartakita.github.io/player.github.io/gangguan.mp4",
         description: "Fun and educational programs for younger kids.",
         icon: "https://da.gd/w5SoNu",
         drm: {
@@ -342,6 +367,7 @@ const videoChannels = [
         name: "Miao Mi",
         category: "Kids",
         file: "https://av-ch-cdn.mncnow.id/live/eds/MiaoMi/sa_dash_vmx/MiaoMi.mpd",
+        fallbackFile: "https://wartakita.github.io/player.github.io/gangguan.mp4",
         description: "Channel for kids featuring Mandarin content.",
         icon: "https://da.gd/w5SoNu",
         drm: {
@@ -355,6 +381,7 @@ const videoChannels = [
         name: "CBeebies Asia",
         category: "Kids",
         file: "https://av-ch-cdn.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd",
+        fallbackFile: "https://wartakita.github.io/player.github.io/gangguan.mp4",
         description: "Educational and fun programs for young children.",
         icon: "https://da.gd/w5SoNu",
         drm: {
@@ -368,6 +395,7 @@ const videoChannels = [
         name: "Cartoon Network Asia",
         category: "Kids",
         file: "https://av-ch-cdn.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.mpd",
+        fallbackFile: "https://wartakita.github.io/player.github.io/gangguan.mp4",
         description: "The best cartoons for kids and teens.",
         icon: "https://da.gd/w5SoNu",
         drm: {
@@ -381,6 +409,7 @@ const videoChannels = [
         name: "Boomerang South East Asia",
         category: "Kids",
         file: "https://av-ch-cdn.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd",
+        fallbackFile: "https://wartakita.github.io/player.github.io/gangguan.mp4",
         description: "Classic cartoons for kids and families.",
         icon: "https://da.gd/w5SoNu",
         drm: {
@@ -394,6 +423,7 @@ const videoChannels = [
         name: "Baby TV Asia",
         category: "Kids",
         file: "https://av-ch-cdn.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.mpd",
+        fallbackFile: "https://wartakita.github.io/player.github.io/gangguan.mp4",
         description: "Programs designed for toddlers and babies.",
         icon: "https://da.gd/w5SoNu",
         drm: {
@@ -407,6 +437,7 @@ const videoChannels = [
         name: "NatGeo Wild",
         category: "Documentary",
         file: "https://av-ch-cdn.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd",
+        fallbackFile: "https://wartakita.github.io/player.github.io/gangguan.mp4",
         description: "Explore the wonders of nature and wildlife.",
         icon: "https://da.gd/w5SoNu",
         drm: {
@@ -420,6 +451,7 @@ const videoChannels = [
         name: "National Geographic Asia",
         category: "Documentary",
         file: "https://av-ch-cdn.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd",
+        fallbackFile: "https://wartakita.github.io/player.github.io/gangguan.mp4",
         description: "The ultimate channel for exploration and discovery.",
         icon: "https://da.gd/w5SoNu",
         drm: {
@@ -433,6 +465,7 @@ const videoChannels = [
         name: "Discovery Channel",
         category: "Documentary",
         file: "https://av-ch-cdn.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd",
+        fallbackFile: "https://wartakita.github.io/player.github.io/gangguan.mp4",
         description: "Documentaries on science, technology, and history.",
         icon: "https://da.gd/w5SoNu",
         drm: {
@@ -446,6 +479,7 @@ const videoChannels = [
         name: "BBC Earth Asia",
         category: "Documentary",
         file: "https://av-ch-cdn.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd",
+        fallbackFile: "https://wartakita.github.io/player.github.io/gangguan.mp4",
         description: "Captivating nature and environmental documentaries.",
         icon: "https://da.gd/w5SoNu",
         drm: {
@@ -459,6 +493,7 @@ const videoChannels = [
         name: "Animal Planet",
         category: "Documentary",
         file: "https://av-ch-cdn.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd",
+        fallbackFile: "https://wartakita.github.io/player.github.io/gangguan.mp4",
         description: "Dive into the world of animals and nature.",
         icon: "https://da.gd/w5SoNu",
         drm: {
@@ -472,6 +507,7 @@ const videoChannels = [
         name: "TLC Southeast Asia",
         category: "Lifestyle",
         file: "https://av-ch-cdn.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd",
+        fallbackFile: "https://wartakita.github.io/player.github.io/gangguan.mp4",
         description: "Lifestyle and reality shows.",
         icon: "https://da.gd/w5SoNu",
         drm: {
@@ -485,6 +521,7 @@ const videoChannels = [
         name: "Lifetime Asia",
         category: "Entertainment",
         file: "https://av-ch-cdn.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd",
+        fallbackFile: "https://wartakita.github.io/player.github.io/gangguan.mp4",
         description: "Dramatic and entertaining stories.",
         icon: "https://da.gd/w5SoNu",
         drm: {
@@ -498,6 +535,7 @@ const videoChannels = [
         name: "HGTV Asia",
         category: "Lifestyle",
         file: "https://liveaneviadev.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd",
+        fallbackFile: "https://wartakita.github.io/player.github.io/gangguan.mp4",
         description: "All about home improvement and design.",
         icon: "https://da.gd/w5SoNu",
         drm: {
@@ -507,10 +545,11 @@ const videoChannels = [
             }
         }
     },
-{
+    {
         name: "Asian Food Network",
         category: "Lifestyle",
         file: "https://av-ch-cdn.mncnow.id/live/eds/AFN-HD/sa_dash_vmx/AFN-HD.mpd",
+        fallbackFile: "https://wartakita.github.io/player.github.io/gangguan.mp4",
         description: "Delicious cooking and culinary inspiration.",
         icon: "https://da.gd/w5SoNu",
         drm: {
@@ -524,6 +563,7 @@ const videoChannels = [
         name: "Arirang World",
         category: "Entertainment",
         file: "https://av-ch-cdn.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd",
+        fallbackFile: "https://wartakita.github.io/player.github.io/gangguan.mp4",
         description: "Korean entertainment and cultural programs.",
         icon: "https://da.gd/w5SoNu",
         drm: {
@@ -537,6 +577,7 @@ const videoChannels = [
         name: "ABC Australia Asia",
         category: "News",
         file: "https://av-ch-cdn.mncnow.id/live/eds/AustraliaPlus/sa_dash_vmx/AustraliaPlus.mpd",
+        fallbackFile: "https://wartakita.github.io/player.github.io/gangguan.mp4",
         description: "News and updates from Australia.",
         icon: "https://da.gd/w5SoNu",
         drm: {
@@ -550,6 +591,7 @@ const videoChannels = [
         name: "TRT World",
         category: "News",
         file: "https://av-ch-cdn.mncnow.id/live/eds/TRTWorld/sa_dash_vmx/TRTWorld.mpd",
+        fallbackFile: "https://wartakita.github.io/player.github.io/gangguan.mp4",
         description: "International news and current affairs.",
         icon: "https://da.gd/w5SoNu",
         drm: {
@@ -563,6 +605,7 @@ const videoChannels = [
         name: "RT English",
         category: "News",
         file: "https://av-ch-cdn.mncnow.id/live/eds/RTEnglish/sa_dash_vmx/RTEnglish.mpd",
+        fallbackFile: "https://wartakita.github.io/player.github.io/gangguan.mp4",
         description: "Global news and in-depth analysis.",
         icon: "https://da.gd/w5SoNu",
         drm: {
@@ -576,6 +619,7 @@ const videoChannels = [
         name: "NHK World Premium",
         category: "News",
         file: "https://av-ch-cdn.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremium.mpd",
+        fallbackFile: "https://wartakita.github.io/player.github.io/gangguan.mp4",
         description: "Premium Japanese programming and news.",
         icon: "https://da.gd/w5SoNu",
         drm: {
@@ -589,6 +633,7 @@ const videoChannels = [
         name: "NHK World Japan",
         category: "News",
         file: "https://av-ch-cdn.mncnow.id/live/eds/NHKWorldTV/sa_dash_vmx/NHKWorldTV.mpd",
+        fallbackFile: "https://wartakita.github.io/player.github.io/gangguan.mp4",
         description: "Japan's international broadcasting service.",
         icon: "https://da.gd/w5SoNu",
         drm: {
@@ -602,6 +647,7 @@ const videoChannels = [
         name: "France 24 English",
         category: "News",
         file: "https://av-ch-cdn.mncnow.id/live/eds/France24/sa_dash_vmx/France24.mpd",
+        fallbackFile: "https://wartakita.github.io/player.github.io/gangguan.mp4",
         description: "International news and European perspectives.",
         icon: "https://da.gd/w5SoNu",
         drm: {
@@ -615,6 +661,7 @@ const videoChannels = [
         name: "Fox News Channel",
         category: "News",
         file: "https://av-ch-cdn.mncnow.id/live/eds/FoxNews/sa_dash_vmx/FoxNews.mpd",
+        fallbackFile: "https://wartakita.github.io/player.github.io/gangguan.mp4",
         description: "Breaking news and live coverage.",
         icon: "https://da.gd/w5SoNu",
         drm: {
@@ -628,6 +675,7 @@ const videoChannels = [
         name: "EuroNews English",
         category: "News",
         file: "https://av-ch-cdn.mncnow.id/live/eds/EuroNews/sa_dash_vmx/EuroNews.mpd",
+        fallbackFile: "https://wartakita.github.io/player.github.io/gangguan.mp4",
         description: "Multilingual news and European updates.",
         icon: "https://da.gd/w5SoNu",
         drm: {
@@ -641,6 +689,7 @@ const videoChannels = [
         name: "DW English",
         category: "News",
         file: "https://av-ch-cdn.mncnow.id/live/eds/DW/sa_dash_vmx/DW.mpd",
+        fallbackFile: "https://wartakita.github.io/player.github.io/gangguan.mp4",
         description: "Germany's international news broadcaster.",
         icon: "https://da.gd/w5SoNu",
         drm: {
@@ -654,6 +703,7 @@ const videoChannels = [
         name: "CNN International Asia Pacific",
         category: "News",
         file: "https://av-ch-cdn.mncnow.id/live/eds/CNNInternational/sa_dash_vmx/CNNInternational.mpd",
+        fallbackFile: "https://wartakita.github.io/player.github.io/gangguan.mp4",
         description: "Comprehensive global news coverage.",
         icon: "https://da.gd/w5SoNu",
         drm: {
@@ -667,6 +717,7 @@ const videoChannels = [
         name: "CNBC Asia-Pacific",
         category: "News",
         file: "https://av-ch-cdn.mncnow.id/live/eds/CNBC/sa_dash_vmx/CNBC.mpd",
+        fallbackFile: "https://wartakita.github.io/player.github.io/gangguan.mp4",
         description: "Business news and market insights.",
         icon: "https://da.gd/w5SoNu",
         drm: {
@@ -680,6 +731,7 @@ const videoChannels = [
         name: "Bloomberg TV Asia",
         category: "News",
         file: "https://av-ch-cdn.mncnow.id/live/eds/Bloomberg/sa_dash_vmx/Bloomberg.mpd",
+        fallbackFile: "https://wartakita.github.io/player.github.io/gangguan.mp4",
         description: "Latest in global markets and financial updates.",
         icon: "https://da.gd/w5SoNu",
         drm: {
@@ -689,10 +741,11 @@ const videoChannels = [
             }
         }
     },
-{
+    {
         name: "BBC World News Asia Pacific",
         category: "News",
         file: "https://av-ch-cdn.mncnow.id/live/eds/BBCWorldNews/sa_dash_vmx/BBCWorldNews.mpd",
+        fallbackFile: "https://wartakita.github.io/player.github.io/gangguan.mp4",
         description: "International news and analysis from the BBC.",
         icon: "https://da.gd/w5SoNu",
         drm: {
@@ -706,6 +759,7 @@ const videoChannels = [
         name: "Aljazeera English",
         category: "News",
         file: "https://av-ch-cdn.mncnow.id/live/eds/AlJazeeraInternational/sa_dash_vmx/AlJazeeraInternational.mpd",
+        fallbackFile: "https://wartakita.github.io/player.github.io/gangguan.mp4",
         description: "International news and in-depth reporting.",
         icon: "https://da.gd/w5SoNu",
         drm: {
@@ -719,6 +773,7 @@ const videoChannels = [
         name: "TV 9 Nusantara",
         category: "Regional",
         file: "https://av-ch-cdn.mncnow.id/live/eds/TV9/sa_dash_vmx/TV9.mpd",
+        fallbackFile: "https://wartakita.github.io/player.github.io/gangguan.mp4",
         description: "Regional programming and local news.",
         icon: "https://da.gd/w5SoNu",
         drm: {
@@ -732,6 +787,7 @@ const videoChannels = [
         name: "Tawaf TV",
         category: "Religious",
         file: "https://av-ch-cdn.mncnow.id/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd",
+        fallbackFile: "https://wartakita.github.io/player.github.io/gangguan.mp4",
         description: "Islamic content and live prayer coverage.",
         icon: "https://da.gd/w5SoNu",
         drm: {
@@ -745,6 +801,7 @@ const videoChannels = [
         name: "Muslim TV",
         category: "Religious",
         file: "https://av-ch-cdn.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd",
+        fallbackFile: "https://wartakita.github.io/player.github.io/gangguan.mp4",
         description: "Islamic content and educational programming.",
         icon: "https://da.gd/w5SoNu",
         drm: {
@@ -758,6 +815,7 @@ const videoChannels = [
         name: "Celestial Movies Indonesia",
         category: "Movies",
         file: "https://av-ch-cdn.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd",
+        fallbackFile: "https://wartakita.github.io/player.github.io/gangguan.mp4",
         description: "Asian blockbuster movies.",
         icon: "https://da.gd/w5SoNu",
         drm: {
@@ -771,6 +829,7 @@ const videoChannels = [
         name: "Crime + Investigation Asia",
         category: "Documentary",
         file: "https://av-ch-cdn.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd",
+        fallbackFile: "https://wartakita.github.io/player.github.io/gangguan.mp4",
         description: "Real-life crime stories and investigations.",
         icon: "https://da.gd/w5SoNu",
         drm: {
@@ -784,6 +843,7 @@ const videoChannels = [
         name: "Vision Prime",
         category: "Entertainment",
         file: "https://av-ch-cdn.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd",
+        fallbackFile: "https://wartakita.github.io/player.github.io/gangguan.mp4",
         description: "Entertainment and variety shows.",
         icon: "https://da.gd/w5SoNu",
         drm: {
@@ -797,6 +857,7 @@ const videoChannels = [
         name: "ONE",
         category: "Entertainment",
         file: "https://av-ch-cdn.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd",
+        fallbackFile: "https://wartakita.github.io/player.github.io/gangguan.mp4",
         description: "Asian drama and entertainment.",
         icon: "https://da.gd/w5SoNu",
         drm: {
@@ -810,6 +871,7 @@ const videoChannels = [
         name: "Lifestyle & Fashion",
         category: "Lifestyle",
         file: "https://av-ch-cdn.mncnow.id/live/eds/LifeStyleFashion/sa_dash_vmx/LifeStyleFashion.mpd",
+        fallbackFile: "https://wartakita.github.io/player.github.io/gangguan.mp4",
         description: "Trendy lifestyle and fashion programs.",
         icon: "https://da.gd/w5SoNu",
         drm: {
@@ -823,6 +885,7 @@ const videoChannels = [
         name: "CNA",
         category: "News",
         file: "https://av-ch-cdn.mncnow.id/live/eds/ChannelNewsAsia/sa_dash_vmx/ChannelNewsAsia.mpd",
+        fallbackFile: "https://wartakita.github.io/player.github.io/gangguan.mp4",
         description: "In-depth Asian news and analysis.",
         icon: "https://da.gd/w5SoNu",
         drm: {
@@ -836,6 +899,7 @@ const videoChannels = [
         name: "SEA Today",
         category: "News",
         file: "https://av-ch-cdn.mncnow.id/live/eds/SEA-Channel/sa_dash_vmx/SEA-Channel.mpd",
+        fallbackFile: "https://wartakita.github.io/player.github.io/gangguan.mp4",
         description: "Southeast Asian news and culture.",
         icon: "https://da.gd/w5SoNu",
         drm: {
@@ -849,6 +913,7 @@ const videoChannels = [
         name: "IDX Channel",
         category: "Business",
         file: "https://av-ch-cdn.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd",
+        fallbackFile: "https://wartakita.github.io/player.github.io/gangguan.mp4",
         description: "Stock market updates and financial news.",
         icon: "https://da.gd/w5SoNu",
         drm: {
@@ -862,6 +927,7 @@ const videoChannels = [
         name: "Bandung TV",
         category: "Regional",
         file: "https://av-ch-cdn.mncnow.id/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd",
+        fallbackFile: "https://wartakita.github.io/player.github.io/gangguan.mp4",
         description: "Local programs and news from Bandung.",
         icon: "https://da.gd/w5SoNu",
         drm: {
@@ -871,10 +937,11 @@ const videoChannels = [
             }
         }
     },
-{
+    {
         name: "Da Ai TV Indonesia",
         category: "Religious",
         file: "https://av-ch-cdn.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd",
+        fallbackFile: "https://wartakita.github.io/player.github.io/gangguan.mp4",
         description: "Inspirational programs with a focus on compassion and humanity.",
         icon: "https://da.gd/w5SoNu",
         drm: {
@@ -888,6 +955,7 @@ const videoChannels = [
         name: "JTV",
         category: "Regional",
         file: "https://av-ch-cdn.mncnow.id/live/eds/JTV/sa_dash_vmx/JTV.mpd",
+        fallbackFile: "https://wartakita.github.io/player.github.io/gangguan.mp4",
         description: "Local programs and news from East Java.",
         icon: "https://da.gd/w5SoNu",
         drm: {
@@ -901,6 +969,7 @@ const videoChannels = [
         name: "CGTN",
         category: "News",
         file: "https://av-ch-cdn.mncnow.id/live/eds/CGTN/sa_dash_vmx/CGTN.mpd",
+        fallbackFile: "https://wartakita.github.io/player.github.io/gangguan.mp4",
         description: "China Global Television Network: International news coverage.",
         icon: "https://da.gd/w5SoNu",
         drm: {
@@ -914,6 +983,7 @@ const videoChannels = [
         name: "TVN Movies",
         category: "Movies",
         file: "https://av-ch-cdn.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd",
+        fallbackFile: "https://wartakita.github.io/player.github.io/gangguan.mp4",
         description: "Asian blockbuster movies and exclusive content.",
         icon: "https://da.gd/w5SoNu",
         drm: {
@@ -927,6 +997,7 @@ const videoChannels = [
         name: "Anhui TV",
         category: "Regional",
         file: "https://av-ch-cdn.mncnow.id/live/eds/AnhuiTV/sa_dash_vmx/AnhuiTV.mpd",
+        fallbackFile: "https://wartakita.github.io/player.github.io/gangguan.mp4",
         description: "Chinese entertainment and variety shows.",
         icon: "https://da.gd/w5SoNu",
         drm: {
@@ -940,6 +1011,7 @@ const videoChannels = [
         name: "Cinema World",
         category: "Movies",
         file: "https://anevia114.mncnow.id//live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd",
+        fallbackFile: "https://wartakita.github.io/player.github.io/gangguan.mp4",
         description: "World cinema featuring films from around the globe.",
         icon: "https://da.gd/w5SoNu",
         drm: {
@@ -953,6 +1025,7 @@ const videoChannels = [
         name: "EWTN",
         category: "Religious",
         file: "https://anevia114.mncnow.id//live/eds/EWTN/sa_dash_vmx/EWTN.mpd",
+        fallbackFile: "https://wartakita.github.io/player.github.io/gangguan.mp4",
         description: "Catholic programming and religious services.",
         icon: "https://da.gd/w5SoNu",
         drm: {
@@ -966,6 +1039,7 @@ const videoChannels = [
         name: "Jiangsu TV",
         category: "Regional",
         file: "https://av-ch-cdn.mncnow.id/live/eds/JiangsuTV/sa_dash_vmx/JiangsuTV.mpd",
+        fallbackFile: "https://wartakita.github.io/player.github.io/gangguan.mp4",
         description: "Chinese entertainment, drama, and variety.",
         icon: "https://da.gd/w5SoNu",
         drm: {
@@ -979,6 +1053,7 @@ const videoChannels = [
         name: "Hunan TV",
         category: "Regional",
         file: "https://av-ch-cdn.mncnow.id/live/eds/HunanTV/sa_dash_vmx/HunanTV.mpd",
+        fallbackFile: "https://wartakita.github.io/player.github.io/gangguan.mp4",
         description: "Popular Chinese dramas and variety shows.",
         icon: "https://da.gd/w5SoNu",
         drm: {
@@ -992,6 +1067,7 @@ const videoChannels = [
         name: "Thrill",
         category: "Movies",
         file: "https://av-ch-cdn.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd",
+        fallbackFile: "https://wartakita.github.io/player.github.io/gangguan.mp4",
         description: "Horror and thriller movies from Asia and beyond.",
         icon: "https://da.gd/w5SoNu",
         drm: {
@@ -1005,6 +1081,7 @@ const videoChannels = [
         name: "ZeeBioskop",
         category: "Movies",
         file: "https://av-ch-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd",
+        fallbackFile: "https://wartakita.github.io/player.github.io/gangguan.mp4",
         description: "Bollywood hits and Indian cinema.",
         icon: "https://da.gd/w5SoNu",
         drm: {
@@ -1018,6 +1095,7 @@ const videoChannels = [
         name: "AXN",
         category: "Entertainment",
         file: "https://anevia114.mncnow.id//live/eds/AXN/sa_dash_vmx/AXN.mpd",
+        fallbackFile: "https://wartakita.github.io/player.github.io/gangguan.mp4",
         description: "Action-packed series and movies.",
         icon: "https://da.gd/w5SoNu",
         drm: {
@@ -1031,6 +1109,7 @@ const videoChannels = [
         name: "FMN",
         category: "Entertainment",
         file: "https://av-ch-cdn.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd",
+        fallbackFile: "https://wartakita.github.io/player.github.io/gangguan.mp4",
         description: "Variety of family-friendly entertainment.",
         icon: "https://da.gd/w5SoNu",
         drm: {
@@ -1040,10 +1119,11 @@ const videoChannels = [
             }
         }
     },
-{
+    {
         name: "BBC Earth",
         category: "Documentary",
         file: "https://av-ch-cdn.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd",
+        fallbackFile: "https://wartakita.github.io/player.github.io/gangguan.mp4",
         description: "Nature and environmental documentaries from BBC.",
         icon: "https://da.gd/w5SoNu",
         drm: {
@@ -1057,6 +1137,7 @@ const videoChannels = [
         name: "Nat Geo Channel",
         category: "Documentary",
         file: "https://av-ch-cdn.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd",
+        fallbackFile: "https://wartakita.github.io/player.github.io/gangguan.mp4",
         description: "Explore the world with National Geographic.",
         icon: "https://da.gd/w5SoNu",
         drm: {
@@ -1070,6 +1151,7 @@ const videoChannels = [
         name: "OK TV",
         category: "Entertainment",
         file: "https://av-ch-cdn.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd",
+        fallbackFile: "https://wartakita.github.io/player.github.io/gangguan.mp4",
         description: "Entertainment and lifestyle programs.",
         icon: "https://da.gd/w5SoNu",
         drm: {
@@ -1083,6 +1165,7 @@ const videoChannels = [
         name: "Warner TV",
         category: "Entertainment",
         file: "https://av-ch-cdn.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd",
+        fallbackFile: "https://wartakita.github.io/player.github.io/gangguan.mp4",
         description: "Movies, shows, and entertainment from Warner Bros.",
         icon: "https://da.gd/w5SoNu",
         drm: {
@@ -1096,6 +1179,7 @@ const videoChannels = [
         name: "Hits Movies",
         category: "Movies",
         file: "https://av-ch-cdn.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd",
+        fallbackFile: "https://wartakita.github.io/player.github.io/gangguan.mp4",
         description: "Blockbuster movies and cinematic hits.",
         icon: "https://da.gd/w5SoNu",
         drm: {
@@ -1109,6 +1193,7 @@ const videoChannels = [
         name: "HITS",
         category: "Entertainment",
         file: "https://av-ch-cdn.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd",
+        fallbackFile: "https://wartakita.github.io/player.github.io/gangguan.mp4",
         description: "Classic TV shows and timeless entertainment.",
         icon: "https://da.gd/w5SoNu",
         drm: {
@@ -1122,6 +1207,7 @@ const videoChannels = [
         name: "HBO Family",
         category: "Movies",
         file: "https://av-ch-cdn.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd",
+        fallbackFile: "https://wartakita.github.io/player.github.io/gangguan.mp4",
         description: "Family-friendly movies and series from HBO.",
         icon: "https://da.gd/w5SoNu",
         drm: {
@@ -1135,6 +1221,7 @@ const videoChannels = [
         name: "HBO Signature",
         category: "Movies",
         file: "https://av-ch-cdn.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd",
+        fallbackFile: "https://wartakita.github.io/player.github.io/gangguan.mp4",
         description: "Award-winning movies and exclusive HBO series.",
         icon: "https://da.gd/w5SoNu",
         drm: {
@@ -1148,6 +1235,7 @@ const videoChannels = [
         name: "HBO Hits",
         category: "Movies",
         file: "https://av-ch-cdn.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd",
+        fallbackFile: "https://wartakita.github.io/player.github.io/gangguan.mp4",
         description: "Top-rated movies from around the globe.",
         icon: "https://da.gd/w5SoNu",
         drm: {
@@ -1161,6 +1249,7 @@ const videoChannels = [
         name: "HBO",
         category: "Movies",
         file: "https://av-ch-cdn.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd",
+        fallbackFile: "https://wartakita.github.io/player.github.io/gangguan.mp4",
         description: "Blockbusters, series, and exclusive HBO originals.",
         icon: "https://da.gd/w5SoNu",
         drm: {
@@ -1170,7 +1259,7 @@ const videoChannels = [
             }
         }
     }
-    // Tambahkan saluran lainnya dengan format yang sama
+    // Tambahkan fallbackFile untuk semua saluran lainnya dengan format yang sama
 ];
 
 /**
