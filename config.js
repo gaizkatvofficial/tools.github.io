@@ -1170,3 +1170,16 @@ const videoChannels = [
         }
     }
 ];
+
+/**
+ * Fungsi untuk mendapatkan channel default
+ * @returns {object} Channel pertama dalam daftar
+ */
+function getDefaultChannel() {
+    return videoChannels[0]; // Channel pertama sebagai default
+}
+
+// Pastikan kompatibilitas dengan lingkungan CommonJS jika diekspor
+if (typeof module !== "undefined" && module.exports) {
+    module.exports = { videoChannels, getDefaultChannel };
+}
