@@ -3,623 +3,623 @@
         "name": "History",
         "category": "Documentary",
         "mpd_url": "https://av-ch-cdn.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd",
-        "license_key": "d23fb6a3c73eb7ab8ad19ca841db0fb5",
-        "key_id": "2ccaa7d9731c2e69fa5344c5a547b836"
+        "key": "d23fb6a3c73eb7ab8ad19ca841db0fb5",
+        "keyid": "2ccaa7d9731c2e69fa5344c5a547b836"
     },
     {
         "name": "iNews",
         "category": "News",
         "mpd_url": "https://av-ch-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd",
-        "license_key": "980e54d671ffc2b2f4cf54e75cae0ac2",
-        "key_id": "a31cf5136789514b7e12b9cc99307c84"
+        "key": "980e54d671ffc2b2f4cf54e75cae0ac2",
+        "keyid": "a31cf5136789514b7e12b9cc99307c84"
     },
     {
         "name": "MNC TV",
         "category": "Entertainment",
         "mpd_url": "https://av-ch-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd",
-        "license_key": "f85d3dcd38981368ab3da597e97ebdcc",
-        "key_id": "828e0aba9825c3546a2831e4c0c36f7f"
+        "key": "f85d3dcd38981368ab3da597e97ebdcc",
+        "keyid": "828e0aba9825c3546a2831e4c0c36f7f"
     },
     {
         "name": "GTV",
         "category": "Entertainment",
         "mpd_url": "https://av-ch-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd",
-        "license_key": "e82daa7c7bfb03d99327463fdbd37336",
-        "key_id": "88f6c7cbd793374cb5f12d7e26dcd63b"
+        "key": "e82daa7c7bfb03d99327463fdbd37336",
+        "keyid": "88f6c7cbd793374cb5f12d7e26dcd63b"
     },
     {
         "name": "RCTI",
         "category": "Entertainment",
         "mpd_url": "https://av-ch-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd",
-        "license_key": "dbc28cb5c6426080f984a5b6d436bb30",
-        "key_id": "9ba3e153ef8956d6e2b0684fcf74f58f"
+        "key": "dbc28cb5c6426080f984a5b6d436bb30",
+        "keyid": "9ba3e153ef8956d6e2b0684fcf74f58f"
     },
     {
         "name": "Music TV",
         "category": "Music",
         "mpd_url": "https://av-ch-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd",
-        "license_key": "4039d607f88f1b1f677e4beb6ee66637",
-        "key_id": "0bea88ab972e06760a04712cc423d841"
+        "key": "4039d607f88f1b1f677e4beb6ee66637",
+        "keyid": "0bea88ab972e06760a04712cc423d841"
     },
     {
         "name": "TVMU",
         "category": "Religious",
         "mpd_url": "https://av-ch-cdn.mncnow.id/live/eds/TVMuhammadiyah/sa_dash_vmx/TVMuhammadiyah.mpd",
-        "license_key": "c495ad0e82e2266fd207934327c71ce3",
-        "key_id": "2fa7625e3470d5e9429f64150614f9a5"
+        "key": "c495ad0e82e2266fd207934327c71ce3",
+        "keyid": "2fa7625e3470d5e9429f64150614f9a5"
     },
     {
         "name": "Reformed 21",
         "category": "Religious",
         "mpd_url": "https://av-ch-cdn.mncnow.id/live/eds/Reformed21/sa_dash_vmx/Reformed21.mpd",
-        "license_key": "f3211e3f8079a8584ac77afda2b0e119",
-        "key_id": "1acfe74d40e91e0368324b074c256bab"
+        "key": "f3211e3f8079a8584ac77afda2b0e119",
+        "keyid": "1acfe74d40e91e0368324b074c256bab"
     },
     {
         "name": "Kids TV",
         "category": "Kids",
         "mpd_url": "https://av-ch-cdn.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd",
-        "license_key": "11a73aad2c75ddf338840b08fb915993",
-        "key_id": "17340c4223a4674b1b7da8d8d9e11174"
+        "key": "11a73aad2c75ddf338840b08fb915993",
+        "keyid": "17340c4223a4674b1b7da8d8d9e11174"
     },
     {
         "name": "Fight Sports",
         "category": "Sports",
         "mpd_url": "https://av-ch-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd",
-        "license_key": "3e4efcec08d5d5c18a403b7048a43638",
-        "key_id": "d2159ffe3be22ed4916a6abe4d58d265"
+        "key": "3e4efcec08d5d5c18a403b7048a43638",
+        "keyid": "d2159ffe3be22ed4916a6abe4d58d265"
     },
     {
         "name": "TVRI",
         "category": "Public",
         "mpd_url": "https://av-ch-cdn.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd",
-        "license_key": "b6f87a3a128dbd75ead036f596edeae7",
-        "key_id": "ca65af90adc5e3ddb180e16426bb67da"
+        "key": "b6f87a3a128dbd75ead036f596edeae7",
+        "keyid": "ca65af90adc5e3ddb180e16426bb67da"
     },
     {
         "name": "MNC Sport 1",
         "category": "Sports",
         "mpd_url": "https://av-ch-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd",
-        "license_key": "d769d9ae238bdd424f8bcdcdc9a3801f",
-        "key_id": "531c6d50e3e9f9ba66446f624f492289"
+        "key": "d769d9ae238bdd424f8bcdcdc9a3801f",
+        "keyid": "531c6d50e3e9f9ba66446f624f492289"
     },
     {
         "name": "MNC Sport 2",
         "category": "Sports",
         "mpd_url": "https://av-ch-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd",
-        "license_key": "843e228ab109e9aa6c4822ee4ad05d7d",
-        "key_id": "45fec91ce1f19b6b1f31d69dcfaaf6cd"
+        "key": "843e228ab109e9aa6c4822ee4ad05d7d",
+        "keyid": "45fec91ce1f19b6b1f31d69dcfaaf6cd"
     },
     {
         "name": "MNC Sport 3",
         "category": "Sports",
         "mpd_url": "https://av-ch-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd",
-        "license_key": "f67ff08c7ebc779f6a6fcfc83835f65b",
-        "key_id": "fadd2720deff5925ab86df0819cd7775"
+        "key": "f67ff08c7ebc779f6a6fcfc83835f65b",
+        "keyid": "fadd2720deff5925ab86df0819cd7775"
     },
     {
         "name": "Soccer Channel",
         "category": "Sports",
         "mpd_url": "https://av-ch-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd",
-        "license_key": "7ee9506b13480491d79b71c062ab5366",
-        "key_id": "4d38060bf41b3c29df0ec950ece6b5da"
+        "key": "7ee9506b13480491d79b71c062ab5366",
+        "keyid": "4d38060bf41b3c29df0ec950ece6b5da"
     },
     {
         "name": "ANTV",
         "category": "Entertainment",
         "mpd_url": "https://av-ch-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd",
-        "license_key": "aebb7e86d8a336d9a93d3dd8a41153cf",
-        "key_id": "4310edb8b9ffe79abb40bacafa778ec3"
+        "key": "aebb7e86d8a336d9a93d3dd8a41153cf",
+        "keyid": "4310edb8b9ffe79abb40bacafa778ec3"
     },
     {
         "name": "Net TV",
         "category": "Entertainment",
         "mpd_url": "https://av-ch-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd",
-        "license_key": "d1766244d7c1c44efd4c67aafae3ee7b",
-        "key_id": "6b7bbcf1d511a56e6b3ceda392e4fa33"
+        "key": "d1766244d7c1c44efd4c67aafae3ee7b",
+        "keyid": "6b7bbcf1d511a56e6b3ceda392e4fa33"
     },
     {
         "name": "Galaxy Premium",
         "category": "Movies",
         "mpd_url": "https://av-ch-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd",
-        "license_key": "06849a953a38da997b31bacf433cc74a",
-        "key_id": "7bc29ff5f405dff971e3a326223fe26c"
+        "key": "06849a953a38da997b31bacf433cc74a",
+        "keyid": "7bc29ff5f405dff971e3a326223fe26c"
     },
     {
         "name": "Galaxy",
         "category": "Movies",
         "mpd_url": "https://av-ch-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd",
-        "license_key": "bcb2ac12e11c69594ba217bfe8714efe",
-        "key_id": "e5c40292f8d01b1d5f0c6b3904d73104"
+        "key": "bcb2ac12e11c69594ba217bfe8714efe",
+        "keyid": "e5c40292f8d01b1d5f0c6b3904d73104"
     },
     {
         "name": "TVN Premium Indonesia",
         "category": "Movies",
         "mpd_url": "https://av-ch-cdn.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd",
-        "license_key": "209f03c525bbbc9fd8652aa7a9cc5cb0",
-        "key_id": "742131dbcb507c31502eb60b32be6bb8"
+        "key": "209f03c525bbbc9fd8652aa7a9cc5cb0",
+        "keyid": "742131dbcb507c31502eb60b32be6bb8"
     },
     {
         "name": "KIX",
         "category": "Movies",
         "mpd_url": "https://av-ch-cdn.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd",
-        "license_key": "eed9fb0b4e254e9104ef98e8a7035387",
-        "key_id": "fe761e8fac143d40510e70825dad0b20"
+        "key": "eed9fb0b4e254e9104ef98e8a7035387",
+        "keyid": "fe761e8fac143d40510e70825dad0b20"
     },
     {
         "name": "Cinemax Asia",
         "category": "Movies",
         "mpd_url": "https://av-ch-cdn.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd",
-        "license_key": "d88a4bdd67f89cd21eb074c81de1b994",
-        "key_id": "fba45325e2cd8355972ede4981f43b2a"
+        "key": "d88a4bdd67f89cd21eb074c81de1b994",
+        "keyid": "fba45325e2cd8355972ede4981f43b2a"
     },
     {
         "name": "Celestial Classic Movies",
         "category": "Movies",
         "mpd_url": "https://av-ch-cdn.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd",
-        "license_key": "6958377109d34561ad20645319cec62c",
-        "key_id": "12da619438b3748da206142216d0943b"
+        "key": "6958377109d34561ad20645319cec62c",
+        "keyid": "12da619438b3748da206142216d0943b"
     },
     {
         "name": "Animax Asia",
         "category": "Anime",
         "mpd_url": "https://av-ch-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd",
-        "license_key": "93b6c4ff420c6864a6294f6d223d9b2c",
-        "key_id": "6344a8272809245e3fa9d926099528c3"
+        "key": "93b6c4ff420c6864a6294f6d223d9b2c",
+        "keyid": "6344a8272809245e3fa9d926099528c3"
     },
     {
         "name": "Nickelodeon South East Asia",
         "category": "Kids",
         "mpd_url": "https://av-ch-cdn.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd",
-        "license_key": "56a40e58acd59965e865947dd719108d",
-        "key_id": "785024598882dc751652cea2bce44b8e"
+        "key": "56a40e58acd59965e865947dd719108d",
+        "keyid": "785024598882dc751652cea2bce44b8e"
     },
     {
         "name": "Nick Jr Asia",
         "category": "Kids",
         "mpd_url": "https://av-ch-cdn.mncnow.id/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd",
-        "license_key": "8a07ef45b4a18973ef12f8da482dcec0",
-        "key_id": "f71ca09f57ea09e27ee63d7d1f0d0e31"
+        "key": "8a07ef45b4a18973ef12f8da482dcec0",
+        "keyid": "f71ca09f57ea09e27ee63d7d1f0d0e31"
     },
     {
         "name": "Miao Mi",
         "category": "Kids",
         "mpd_url": "https://av-ch-cdn.mncnow.id/live/eds/MiaoMi/sa_dash_vmx/MiaoMi.mpd",
-        "license_key": "327c62356a811a1c0802cf0c4f5a1d50",
-        "key_id": "e179c8d2ae0ddf520b905823d417f028"
+        "key": "327c62356a811a1c0802cf0c4f5a1d50",
+        "keyid": "e179c8d2ae0ddf520b905823d417f028"
     },
     {
         "name": "CBeebies Asia",
         "category": "Kids",
         "mpd_url": "https://av-ch-cdn.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd",
-        "license_key": "eeb1fb2ec011f9563653495f9ac427b1",
-        "key_id": "194891b41223a5f1ec2beff1c95e2f53"
+        "key": "eeb1fb2ec011f9563653495f9ac427b1",
+        "keyid": "194891b41223a5f1ec2beff1c95e2f53"
     },
     {
         "name": "Cartoon Network Asia",
         "category": "Kids",
         "mpd_url": "https://av-ch-cdn.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.mpd",
-        "license_key": "008df022d78a9ec318a745cf8365b048",
-        "key_id": "37ef71f668c1c1126595be0f557587f5"
+        "key": "008df022d78a9ec318a745cf8365b048",
+        "keyid": "37ef71f668c1c1126595be0f557587f5"
     },
     {
         "name": "Boomerang South East Asia",
         "category": "Kids",
         "mpd_url": "https://av-ch-cdn.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd",
-        "license_key": "93cac38fd15124acce5b658896df0a25",
-        "key_id": "5ff6154f28d6950063f9f5b4db7be009"
+        "key": "93cac38fd15124acce5b658896df0a25",
+        "keyid": "5ff6154f28d6950063f9f5b4db7be009"
     },
     {
         "name": "Baby TV Asia",
         "category": "Kids",
         "mpd_url": "https://av-ch-cdn.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.mpd",
-        "license_key": "02a01282f77edf03e964e713fb447e93",
-        "key_id": "2fc62ba18b44dce828a5fb8a213d6e5b"
+        "key": "02a01282f77edf03e964e713fb447e93",
+        "keyid": "2fc62ba18b44dce828a5fb8a213d6e5b"
     },
     {
         "name": "NatGeo Wild",
         "category": "Documentary",
         "mpd_url": "https://av-ch-cdn.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd",
-        "license_key": "4e98eb4927941bff51ea526d223fa16d",
-        "key_id": "c3066eaa0984588f78d12dcdb75ef88b"
+        "key": "4e98eb4927941bff51ea526d223fa16d",
+        "keyid": "c3066eaa0984588f78d12dcdb75ef88b"
     },
     {
         "name": "National Geographic Asia",
         "category": "Documentary",
         "mpd_url": "https://av-ch-cdn.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd",
-        "license_key": "626e37901bfb985e994d714e9f9de1b5",
-        "key_id": "05457a5e16a76fe666a22cc7ae2c6548"
+        "key": "626e37901bfb985e994d714e9f9de1b5",
+        "keyid": "05457a5e16a76fe666a22cc7ae2c6548"
     },
     {
         "name": "Discovery Channel",
         "category": "Documentary",
         "mpd_url": "https://av-ch-cdn.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd",
-        "license_key": "32ca577ab5b577a31cc61eb847642fa8",
-        "key_id": "8b27270c10422acdf2b70c296c8ddb29"
+        "key": "32ca577ab5b577a31cc61eb847642fa8",
+        "keyid": "8b27270c10422acdf2b70c296c8ddb29"
     },
     {
         "name": "BBC Earth Asia",
         "category": "Documentary",
         "mpd_url": "https://av-ch-cdn.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd",
-        "license_key": "5c365427c75eacf217255effcb5fff3e",
-        "key_id": "c154c12b5f8336cc9cbef82fb5cc0ab4"
+        "key": "5c365427c75eacf217255effcb5fff3e",
+        "keyid": "c154c12b5f8336cc9cbef82fb5cc0ab4"
     },
     {
         "name": "Animal Planet",
         "category": "Documentary",
         "mpd_url": "https://av-ch-cdn.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd",
-        "license_key": "adf87643eef60a4df18d69044a970d66",
-        "key_id": "ccc52e94c493492773612a04fa3a1ae1"
+        "key": "adf87643eef60a4df18d69044a970d66",
+        "keyid": "ccc52e94c493492773612a04fa3a1ae1"
     },
     {
         "name": "TLC Southeast Asia",
         "category": "Lifestyle",
         "mpd_url": "https://av-ch-cdn.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd",
-        "license_key": "d2aaac6845b33627cdce1272feac5acc",
-        "key_id": "b9c123fbf587e6524b2706bd960c7f67"
+        "key": "d2aaac6845b33627cdce1272feac5acc",
+        "keyid": "b9c123fbf587e6524b2706bd960c7f67"
     },
     {
         "name": "Lifetime Asia",
         "category": "Lifestyle",
         "mpd_url": "https://av-ch-cdn.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd",
-        "license_key": "7f8b3b508bb394919dab1b6e91e7bacf",
-        "key_id": "8bd8efd4840c37f50f8a053f92e9b015"
+        "key": "7f8b3b508bb394919dab1b6e91e7bacf",
+        "keyid": "8bd8efd4840c37f50f8a053f92e9b015"
     },
     {
         "name": "HGTV Asia",
         "category": "Lifestyle",
         "mpd_url": "https://liveaneviadev.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd",
-        "license_key": "570a676fa8b2d5433789ebe8a07063cc",
-        "key_id": "c704a6e7fb9e79809a542dcb04583835"
+        "key": "570a676fa8b2d5433789ebe8a07063cc",
+        "keyid": "c704a6e7fb9e79809a542dcb04583835"
     },
     {
         "name": "Asian Food Network",
         "category": "Food",
         "mpd_url": "https://av-ch-cdn.mncnow.id/live/eds/AFN-HD/sa_dash_vmx/AFN-HD.mpd",
-        "license_key": "d5e35c0f39c76adf24853d7ea18c71e7",
-        "key_id": "57d2ac9210cfbca3596cc679a01c8b29"
+        "key": "d5e35c0f39c76adf24853d7ea18c71e7",
+        "keyid": "57d2ac9210cfbca3596cc679a01c8b29"
     },
     {
         "name": "Arirang World",
         "category": "Entertainment",
         "mpd_url": "https://av-ch-cdn.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd",
-        "license_key": "d71b81338f16bf009608665b08a49197",
-        "key_id": "9bc202de2b177ff5bb64dacb0ab3fd8d"
+        "key": "d71b81338f16bf009608665b08a49197",
+        "keyid": "9bc202de2b177ff5bb64dacb0ab3fd8d"
     },
     {
         "name": "ABC Australia Asia",
         "category": "News",
         "mpd_url": "https://av-ch-cdn.mncnow.id/live/eds/AustraliaPlus/sa_dash_vmx/AustraliaPlus.mpd",
-        "license_key": "4f705ca934ba3ef5513fea618d4f938d",
-        "key_id": "a2dd864fc95998efd52979e5f732e029"
+        "key": "4f705ca934ba3ef5513fea618d4f938d",
+        "keyid": "a2dd864fc95998efd52979e5f732e029"
     },
     {
         "name": "TRT World",
         "category": "News",
         "mpd_url": "https://av-ch-cdn.mncnow.id/live/eds/TRTWorld/sa_dash_vmx/TRTWorld.mpd",
-        "license_key": "5fc5b980db05c4450482b4bd7cda39fe",
-        "key_id": "2664cc86dfb0f48e6b3f792dd4e8983c"
+        "key": "5fc5b980db05c4450482b4bd7cda39fe",
+        "keyid": "2664cc86dfb0f48e6b3f792dd4e8983c"
     },
     {
         "name": "RT English",
         "category": "News",
         "mpd_url": "https://av-ch-cdn.mncnow.id/live/eds/RTEnglish/sa_dash_vmx/RTEnglish.mpd",
-        "license_key": "7819a6f6427b7c7764a514abe8173b02",
-        "key_id": "ec5705bb82f3e66b054de048287fd3a4"
+        "key": "7819a6f6427b7c7764a514abe8173b02",
+        "keyid": "ec5705bb82f3e66b054de048287fd3a4"
     },
     {
         "name": "NHK World Premium",
         "category": "News",
         "mpd_url": "https://av-ch-cdn.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremium.mpd",
-        "license_key": "10ad173ac7249bc42c8390c090ca09e3",
-        "key_id": "a56d6a274eb073cdf94754bd0ffe3335"
+        "key": "10ad173ac7249bc42c8390c090ca09e3",
+        "keyid": "a56d6a274eb073cdf94754bd0ffe3335"
     },
     {
         "name": "NHK World Japan",
         "category": "News",
         "mpd_url": "https://av-ch-cdn.mncnow.id/live/eds/NHKWorldTV/sa_dash_vmx/NHKWorldTV.mpd",
-        "license_key": "f1325e71f440c06f7e93d7551cb4014a",
-        "key_id": "62ce01c83653c3f20af6bcafc6979fe6"
+        "key": "f1325e71f440c06f7e93d7551cb4014a",
+        "keyid": "62ce01c83653c3f20af6bcafc6979fe6"
     },
     {
         "name": "France 24 English",
         "category": "News",
         "mpd_url": "https://av-ch-cdn.mncnow.id/live/eds/France24/sa_dash_vmx/France24.mpd",
-        "license_key": "7182638b386cb06e211b6771c1a10861",
-        "key_id": "2968b8d8884c66ebfc54b53bee1070ee"
+        "key": "7182638b386cb06e211b6771c1a10861",
+        "keyid": "2968b8d8884c66ebfc54b53bee1070ee"
     },
     {
         "name": "Fox News Channel",
         "category": "News",
         "mpd_url": "https://av-ch-cdn.mncnow.id/live/eds/FoxNews/sa_dash_vmx/FoxNews.mpd",
-        "license_key": "7e86ccfba721e3297b73fc9e2b07628d",
-        "key_id": "a547a31e9c19c36f94d120a83f61f92d"
+        "key": "7e86ccfba721e3297b73fc9e2b07628d",
+        "keyid": "a547a31e9c19c36f94d120a83f61f92d"
     },
     {
         "name": "EuroNews English",
         "category": "News",
         "mpd_url": "https://av-ch-cdn.mncnow.id/live/eds/EuroNews/sa_dash_vmx/EuroNews.mpd",
-        "license_key": "a16eb03e31229b194ec4b45c3cb80b46",
-        "key_id": "9acec565e4d5e994523b3b18e0a7521e"
+        "key": "a16eb03e31229b194ec4b45c3cb80b46",
+        "keyid": "9acec565e4d5e994523b3b18e0a7521e"
     },
     {
         "name": "DW English",
         "category": "News",
         "mpd_url": "https://av-ch-cdn.mncnow.id/live/eds/DW/sa_dash_vmx/DW.mpd",
-        "license_key": "f00791bacba0575927de6cf15cfcd9d9",
-        "key_id": "4472db9a36186f11703d04a4adbbf279"
+        "key": "f00791bacba0575927de6cf15cfcd9d9",
+        "keyid": "4472db9a36186f11703d04a4adbbf279"
     },
     {
         "name": "CNN International Asia Pacific",
         "category": "News",
         "mpd_url": "https://av-ch-cdn.mncnow.id/live/eds/CNNInternational/sa_dash_vmx/CNNInternational.mpd",
-        "license_key": "2d5e77223719fb1af573cbeab56bb16a",
-        "key_id": "faa79feb03b3ebf0e4566e649cb938f0"
+        "key": "2d5e77223719fb1af573cbeab56bb16a",
+        "keyid": "faa79feb03b3ebf0e4566e649cb938f0"
     },
     {
         "name": "CNBC Asia-Pacific",
         "category": "News",
         "mpd_url": "https://av-ch-cdn.mncnow.id/live/eds/CNBC/sa_dash_vmx/CNBC.mpd",
-        "license_key": "533886c95819317d48fd079d78c3d757",
-        "key_id": "a6de9ad0c51e2673f543b71ac5a54211"
+        "key": "533886c95819317d48fd079d78c3d757",
+        "keyid": "a6de9ad0c51e2673f543b71ac5a54211"
     },
     {
         "name": "Bloomberg TV Asia",
         "category": "Finance",
         "mpd_url": "https://av-ch-cdn.mncnow.id/live/eds/Bloomberg/sa_dash_vmx/Bloomberg.mpd",
-        "license_key": "39d7bc2faf1f13b8a2bb106b617e604a",
-        "key_id": "272401a5b200375e49a4712cf39f369c"
+        "key": "39d7bc2faf1f13b8a2bb106b617e604a",
+        "keyid": "272401a5b200375e49a4712cf39f369c"
     },
     {
         "name": "BBC World News Asia Pacif",
         "category": "News",
         "mpd_url": "https://av-ch-cdn.mncnow.id/live/eds/BBCWorldNews/sa_dash_vmx/BBCWorldNews.mpd",
-        "license_key": "c25659bd78913e93e3fddace99a964c1",
-        "key_id": "82e458dc5613eaaa2608de8d190f1637"
+        "key": "c25659bd78913e93e3fddace99a964c1",
+        "keyid": "82e458dc5613eaaa2608de8d190f1637"
     },
     {
         "name": "Aljazeera English",
         "category": "News",
         "mpd_url": "https://av-ch-cdn.mncnow.id/live/eds/AlJazeeraInternational/sa_dash_vmx/AlJazeeraInternational.mpd",
-        "license_key": "014e41ad9ec2997fe29d3c3bc372491f",
-        "key_id": "59b86c4bc0dc5de64bdfafe5152cc8f1"
+        "key": "014e41ad9ec2997fe29d3c3bc372491f",
+        "keyid": "59b86c4bc0dc5de64bdfafe5152cc8f1"
     },
     {
         "name": "TV 9 Nusantara",
         "category": "Religious",
         "mpd_url": "https://av-ch-cdn.mncnow.id/live/eds/TV9/sa_dash_vmx/TV9.mpd",
-        "license_key": "d83bcf72b3f5a3d09674602b06caaa71",
-        "key_id": "ce1a653fafa780cd4a8747c08872e3ab"
+        "key": "d83bcf72b3f5a3d09674602b06caaa71",
+        "keyid": "ce1a653fafa780cd4a8747c08872e3ab"
     },
     {
         "name": "Tawaf TV",
         "category": "Religious",
         "mpd_url": "https://av-ch-cdn.mncnow.id/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd",
-        "license_key": "beab0589d5f15d4a56278c7df913b263",
-        "key_id": "52bc18038d025c26ead432fa521f83a"
+        "key": "beab0589d5f15d4a56278c7df913b263",
+        "keyid": "52bc18038d025c26ead432fa521f83a"
     },
     {
         "name": "Muslim TV",
         "category": "Religious",
         "mpd_url": "https://av-ch-cdn.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd",
-        "license_key": "334cde07f6ebe092c0ae0521591d73cf",
-        "key_id": "eefa1c34afba72f8fe902b061632528f"
+        "key": "334cde07f6ebe092c0ae0521591d73cf",
+        "keyid": "eefa1c34afba72f8fe902b061632528f"
     },
     {
         "name": "Celestial Movies Indonesia",
         "category": "Movies",
         "mpd_url": "https://av-ch-cdn.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd",
-        "license_key": "80aa44d998c7c0cc221c96d26730fe9b",
-        "key_id": "13aecb26aeee22bc86920045f22d134d"
+        "key": "80aa44d998c7c0cc221c96d26730fe9b",
+        "keyid": "13aecb26aeee22bc86920045f22d134d"
     },
     {
         "name": "Crime + Investigation Asia",
         "category": "Documentary",
         "mpd_url": "https://av-ch-cdn.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd",
-        "license_key": "7c068dd99c87e0ab1efc635bb77adcb4",
-        "key_id": "dc6157edc80fa15e6b6f23e695d461e4"
+        "key": "7c068dd99c87e0ab1efc635bb77adcb4",
+        "keyid": "dc6157edc80fa15e6b6f23e695d461e4"
     },
     {
         "name": "Vision Prime",
         "category": "Entertainment",
         "mpd_url": "https://av-ch-cdn.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd",
-        "license_key": "4ec78e3b7d66d1db3815a127f792b604",
-        "key_id": "50056951f6d5f5fbaf286cd99c965379"
+        "key": "4ec78e3b7d66d1db3815a127f792b604",
+        "keyid": "50056951f6d5f5fbaf286cd99c965379"
     },
     {
         "name": "ONE",
         "category": "Movies",
         "mpd_url": "https://av-ch-cdn.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd",
-        "license_key": "428a68fac3d97a5fae0f695edcee6346",
-        "key_id": "7b212a67ce3e8b056af85b890e3de811"
+        "key": "428a68fac3d97a5fae0f695edcee6346",
+        "keyid": "7b212a67ce3e8b056af85b890e3de811"
     },
     {
         "name": "Lifestyle & Fashion",
         "category": "Lifestyle",
         "mpd_url": "https://av-ch-cdn.mncnow.id/live/eds/LifeStyleFashion/sa_dash_vmx/LifeStyleFashion.mpd",
-        "license_key": "19090336609b8f4fee1e7aea837a10d9",
-        "key_id": "eeba2c9c08078d2a729328dbcd1e002b"
+        "key": "19090336609b8f4fee1e7aea837a10d9",
+        "keyid": "eeba2c9c08078d2a729328dbcd1e002b"
     },
     {
         "name": "CNA",
         "category": "News",
         "mpd_url": "https://av-ch-cdn.mncnow.id/live/eds/ChannelNewsAsia/sa_dash_vmx/ChannelNewsAsia.mpd",
-        "license_key": "2f7aa7b21102d05a986a4212c4afa06f",
-        "key_id": "e1ae750e09889a610744516182c8e95a"
+        "key": "2f7aa7b21102d05a986a4212c4afa06f",
+        "keyid": "e1ae750e09889a610744516182c8e95a"
     },
     {
         "name": "SEA Today",
         "category": "News",
         "mpd_url": "https://av-ch-cdn.mncnow.id/live/eds/SEA-Channel/sa_dash_vmx/SEA-Channel.mpd",
-        "license_key": "aa5af1f3edb3abd10a68b8f7e7c0b1ad",
-        "key_id": "dfb76a400a6af053881f7fff14483323"
+        "key": "aa5af1f3edb3abd10a68b8f7e7c0b1ad",
+        "keyid": "dfb76a400a6af053881f7fff14483323"
     },
     {
         "name": "IDX Channel",
         "category": "Finance",
         "mpd_url": "https://av-ch-cdn.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd",
-        "license_key": "7a8bb14fcf8fd0b896ab41c29a78aae0",
-        "key_id": "fbdbe252e6354b175852d1929c42d848"
+        "key": "7a8bb14fcf8fd0b896ab41c29a78aae0",
+        "keyid": "fbdbe252e6354b175852d1929c42d848"
     },
     {
         "name": "Bandung TV",
         "category": "Public",
         "mpd_url": "https://av-ch-cdn.mncnow.id/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd",
-        "license_key": "2ef65773d541ccaf8ba61a3d141711f0",
-        "key_id": "a7fd43751f24d64a16f6f4d289ebd395"
+        "key": "2ef65773d541ccaf8ba61a3d141711f0",
+        "keyid": "a7fd43751f24d64a16f6f4d289ebd395"
     },
     {
         "name": "Da Ai TV Indonesia",
         "category": "Religious",
         "mpd_url": "https://av-ch-cdn.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd",
-        "license_key": "0a9832e32206fff46674b8210c9b6897",
-        "key_id": "eb7c09e964e89e668266ea31f2710ffa"
+        "key": "0a9832e32206fff46674b8210c9b6897",
+        "keyid": "eb7c09e964e89e668266ea31f2710ffa"
     },
     {
         "name": "JTV",
         "category": "Entertainment",
         "mpd_url": "https://av-ch-cdn.mncnow.id/live/eds/JTV/sa_dash_vmx/JTV.mpd",
-        "license_key": "acdcd0b65014e4929c6296171bdfebad",
-        "key_id": "10e203f655014b5d18b0c85a6c72c809"
+        "key": "acdcd0b65014e4929c6296171bdfebad",
+        "keyid": "10e203f655014b5d18b0c85a6c72c809"
     },
     {
         "name": "CGTN",
         "category": "News",
         "mpd_url": "https://av-ch-cdn.mncnow.id/live/eds/CGTN/sa_dash_vmx/CGTN.mpd",
-        "license_key": "ab190baece633191b7201cb96d065bbb",
-        "key_id": "725ccd861fa88300c0e1d258b20bc9b1"
+        "key": "ab190baece633191b7201cb96d065bbb",
+        "keyid": "725ccd861fa88300c0e1d258b20bc9b1"
     },
     {
         "name": "TVN Movies",
         "category": "Movies",
         "mpd_url": "https://av-ch-cdn.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd",
-        "license_key": "fe82bc3ffe00477c833812fae74caed7",
-        "key_id": "45c004003b09719751adb885d28d491f"
+        "key": "fe82bc3ffe00477c833812fae74caed7",
+        "keyid": "45c004003b09719751adb885d28d491f"
     },
     {
         "name": "Anhui TV",
         "category": "Entertainment",
         "mpd_url": "https://av-ch-cdn.mncnow.id/live/eds/AnhuiTV/sa_dash_vmx/AnhuiTV.mpd",
-        "license_key": "1842c9b39c3558bb4c7dbb6e400561aa",
-        "key_id": "6935d1a7c21abca8907b1a7b63f2d2c9"
+        "key": "1842c9b39c3558bb4c7dbb6e400561aa",
+        "keyid": "6935d1a7c21abca8907b1a7b63f2d2c9"
     },
     {
         "name": "Cinema World",
         "category": "Movies",
         "mpd_url": "https://anevia114.mncnow.id//live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd",
-        "license_key": "fbd6e4540b9a917a27da8be01542f53f",
-        "key_id": "958df746f24f371dffc95e7cd714fbd7"
+        "key": "fbd6e4540b9a917a27da8be01542f53f",
+        "keyid": "958df746f24f371dffc95e7cd714fbd7"
     },
     {
         "name": "EWTN",
         "category": "Religious",
         "mpd_url": "https://anevia114.mncnow.id//live/eds/EWTN/sa_dash_vmx/EWTN.mpd",
-        "license_key": "78437d7ccfe7a3a220c53180eb5bdeb1",
-        "key_id": "cb2393dc078c4b708cce148304db1ea7"
+        "key": "78437d7ccfe7a3a220c53180eb5bdeb1",
+        "keyid": "cb2393dc078c4b708cce148304db1ea7"
     },
     {
         "name": "Jiangsu TV",
         "category": "Entertainment",
         "mpd_url": "https://av-ch-cdn.mncnow.id/live/eds/JiangsuTV/sa_dash_vmx/JiangsuTV.mpd",
-        "license_key": "1ae67b4eeeb450fd430e3540694abc6a",
-        "key_id": "ab3b56e3b5bd35ee40d1f18a8e2a73f0"
+        "key": "1ae67b4eeeb450fd430e3540694abc6a",
+        "keyid": "ab3b56e3b5bd35ee40d1f18a8e2a73f0"
     },
     {
         "name": "Hunan TV",
         "category": "Entertainment",
         "mpd_url": "https://av-ch-cdn.mncnow.id/live/eds/HunanTV/sa_dash_vmx/HunanTV.mpd",
-        "license_key": "1f822977efb4700dfef3aef29ce53d98",
-        "key_id": "0e9df1ff194224dd922a4ee50a083ea8"
+        "key": "1f822977efb4700dfef3aef29ce53d98",
+        "keyid": "0e9df1ff194224dd922a4ee50a083ea8"
     },
     {
         "name": "Thrill",
         "category": "Movies",
         "mpd_url": "https://av-ch-cdn.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd",
-        "license_key": "9431050f760f692bfd396bbd84cb5161",
-        "key_id": "06e7e95fdb30086d24111f300c9d91f1"
+        "key": "9431050f760f692bfd396bbd84cb5161",
+        "keyid": "06e7e95fdb30086d24111f300c9d91f1"
     },
     {
         "name": "ZeeBioskop",
         "category": "Movies",
         "mpd_url": "https://av-ch-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd",
-        "license_key": "b92b6a2aba522bd9bb2d07cf241e7398",
-        "key_id": "9e7df70530006bef067327cefde82c0e"
+        "key": "b92b6a2aba522bd9bb2d07cf241e7398",
+        "keyid": "9e7df70530006bef067327cefde82c0e"
     },
     {
         "name": "AXN",
         "category": "Entertainment",
         "mpd_url": "https://anevia114.mncnow.id//live/eds/AXN/sa_dash_vmx/AXN.mpd",
-        "license_key": "bdb773d6d25303b75a396b8040cfaf8c",
-        "key_id": "c5d5297a84f8b2de977f07286345c591"
+        "key": "bdb773d6d25303b75a396b8040cfaf8c",
+        "keyid": "c5d5297a84f8b2de977f07286345c591"
     },
     {
         "name": "FMN",
         "category": "Music",
         "mpd_url": "https://av-ch-cdn.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd",
-        "license_key": "12d010a918431785676c4fd63ef648bd",
-        "key_id": "009a1278e0755ed82e70df01460e90c3"
+        "key": "12d010a918431785676c4fd63ef648bd",
+        "keyid": "009a1278e0755ed82e70df01460e90c3"
     },
     {
         "name": "BBC Earth",
         "category": "Documentary",
         "mpd_url": "https://av-ch-cdn.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd",
-        "license_key": "5c365427c75eacf217255effcb5fff3e",
-        "key_id": "c154c12b5f8336cc9cbef82fb5cc0ab4"
+        "key": "5c365427c75eacf217255effcb5fff3e",
+        "keyid": "c154c12b5f8336cc9cbef82fb5cc0ab4"
     },
     {
         "name": "Nat Geo Channel",
         "category": "Documentary",
         "mpd_url": "https://av-ch-cdn.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd",
-        "license_key": "626e37901bfb985e994d714e9f9de1b5",
-        "key_id": "05457a5e16a76fe666a22cc7ae2c6548"
+        "key": "626e37901bfb985e994d714e9f9de1b5",
+        "keyid": "05457a5e16a76fe666a22cc7ae2c6548"
     },
     {
         "name": "OK TV",
         "category": "Public",
         "mpd_url": "https://av-ch-cdn.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd",
-        "license_key": "d5e35c0f39c76adf24853d7ea18c71e7",
-        "key_id": "57d2ac9210cfbca3596cc679a01c8b29"
+        "key": "d5e35c0f39c76adf24853d7ea18c71e7",
+        "keyid": "57d2ac9210cfbca3596cc679a01c8b29"
     },
     {
         "name": "Warner TV",
         "category": "Movies",
         "mpd_url": "https://av-ch-cdn.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd",
-        "license_key": "382106ed34f0330b073b1fa940c1516e",
-        "key_id": "355764373f8a926534fbc42666ab7b13"
+        "key": "382106ed34f0330b073b1fa940c1516e",
+        "keyid": "355764373f8a926534fbc42666ab7b13"
     },
     {
         "name": "Hits Movies",
         "category": "Movies",
         "mpd_url": "https://av-ch-cdn.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd",
-        "license_key": "902e7634820c26a8ff36f3708f0191d4",
-        "key_id": "5d9684b1737e3b68801b4cff7225d4bb"
+        "key": "902e7634820c26a8ff36f3708f0191d4",
+        "keyid": "5d9684b1737e3b68801b4cff7225d4bb"
     },
     {
         "name": "HBO Family",
         "category": "Movies",
         "mpd_url": "https://av-ch-cdn.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd",
-        "license_key": "d161b1f737e2aee9501149406c8abe9e",
-        "key_id": "be6190a3cfbbed4ec34e4d9c7a30e1e"
+        "key": "d161b1f737e2aee9501149406c8abe9e",
+        "keyid": "be6190a3cfbbed4ec34e4d9c7a30e1e"
     },
     {
         "name": "HBO Signature",
         "category": "Movies",
         "mpd_url": "https://av-ch-cdn.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd",
-        "license_key": "4e97aa6422b26ffb372647dbd0a7683c",
-        "key_id": "b64eee6360b118d0d90329cc2c9e4c60"
+        "key": "4e97aa6422b26ffb372647dbd0a7683c",
+        "keyid": "b64eee6360b118d0d90329cc2c9e4c60"
     },
     {
         "name": "HBO Hits",
         "category": "Movies",
         "mpd_url": "https://av-ch-cdn.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd",
-        "license_key": "fe41e9bcbae52f9d233407f7488bca5f",
-        "key_id": "6c256f70830647e4bdf654d86e710ed5"
+        "key": "fe41e9bcbae52f9d233407f7488bca5f",
+        "keyid": "6c256f70830647e4bdf654d86e710ed5"
     },
     {
         "name": "HBO",
         "category": "Movies",
         "mpd_url": "https://av-ch-cdn.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd",
-        "license_key": "0acc16bd84921489f67bad19e4099cae",
-        "key_id": "eeea0c2986e91a13eacd590ad1ebfe43"
+        "key": "0acc16bd84921489f67bad19e4099cae",
+        "keyid": "eeea0c2986e91a13eacd590ad1ebfe43"
     }
 ]
