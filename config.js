@@ -1094,7 +1094,7 @@ const videoChannels = [
     {
         name: "AXN",
         category: "Entertainment",
-        file: "https://anevia114.mncnow.id//live/eds/AXN/sa_dash_vmx/AXN.mpd",
+        file: "https://av-ch-cdn.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd",
         fallbackFile: "https://wartakita.github.io/player.github.io/gangguan.mp4",
         description: "Action-packed series and movies.",
         icon: "https://da.gd/w5SoNu",
