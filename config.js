@@ -1168,6 +1168,5 @@ const videoChannels = [
                 key: "dbc28cb5c6426080f984a5b6d436bb30"
             }
         }
-    },
-    // Tambahkan saluran lainnya dengan format yang sama
+    }
 ];
