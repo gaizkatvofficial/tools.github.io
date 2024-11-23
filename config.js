@@ -4,7 +4,7 @@ const videoChannels = [
         category: "History",
         file: "https://av-ch-cdn.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd",
         description: "Saluran tentang sejarah dan dokumentasi.",
-        icon: "https://via.placeholder.com/30",
+        icon: "https://da.gd/w5SoNu",
         drm: {
             clearkey: {
                 keyId: "2ccaa7d9731c2e69fa5344c5a547b836",
@@ -17,7 +17,7 @@ const videoChannels = [
         category: "Berita",
         file: "https://av-ch-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd",
         description: "Saluran berita terkini dan informasi.",
-        icon: "https://via.placeholder.com/30",
+        icon: "https://da.gd/w5SoNu",
         drm: {
             clearkey: {
                 keyId: "a31cf5136789514b7e12b9cc99307c84",
@@ -30,7 +30,7 @@ const videoChannels = [
         category: "Hiburan",
         file: "https://av-ch-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd",
         description: "Saluran hiburan dan acara keluarga.",
-        icon: "https://via.placeholder.com/30",
+        icon: "https://da.gd/w5SoNu",
         drm: {
             clearkey: {
                 keyId: "828e0aba9825c3546a2831e4c0c36f7f",
@@ -43,7 +43,7 @@ const videoChannels = [
         category: "Hiburan",
         file: "https://av-ch-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd",
         description: "Saluran hiburan dan program unggulan.",
-        icon: "https://via.placeholder.com/30",
+        icon: "https://da.gd/w5SoNu",
         drm: {
             clearkey: {
                 keyId: "88f6c7cbd793374cb5f12d7e26dcd63b",
@@ -56,7 +56,7 @@ const videoChannels = [
         category: "Hiburan",
         file: "https://av-ch-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd",
         description: "Saluran program drama, film, dan berita.",
-        icon: "https://via.placeholder.com/30",
+        icon: "https://da.gd/w5SoNu",
         drm: {
             clearkey: {
                 keyId: "9ba3e153ef8956d6e2b0684fcf74f58f",
@@ -69,7 +69,7 @@ const videoChannels = [
         category: "Music",
         file: "https://av-ch-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd",
         description: "Music channel featuring the latest hits.",
-        icon: "https://via.placeholder.com/30",
+        icon: "https://da.gd/w5SoNu",
         drm: {
             clearkey: {
                 keyId: "0bea88ab972e06760a04712cc423d841",
@@ -82,7 +82,7 @@ const videoChannels = [
         category: "Religious",
         file: "https://av-ch-cdn.mncnow.id/live/eds/TVMuhammadiyah/sa_dash_vmx/TVMuhammadiyah.mpd",
         description: "Islamic education and values.",
-        icon: "https://via.placeholder.com/30",
+        icon: "https://da.gd/w5SoNu",
         drm: {
             clearkey: {
                 keyId: "2fa7625e3470d5e9429f64150614f9a5",
@@ -95,7 +95,7 @@ const videoChannels = [
         category: "Religious",
         file: "https://av-ch-cdn.mncnow.id/live/eds/Reformed21/sa_dash_vmx/Reformed21.mpd",
         description: "Christian programs and sermons.",
-        icon: "https://via.placeholder.com/30",
+        icon: "https://da.gd/w5SoNu",
         drm: {
             clearkey: {
                 keyId: "1acfe74d40e91e0368324b074c256bab",
@@ -108,7 +108,7 @@ const videoChannels = [
         category: "Kids",
         file: "https://av-ch-cdn.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd",
         description: "Fun and educational programs for kids.",
-        icon: "https://via.placeholder.com/30",
+        icon: "https://da.gd/w5SoNu",
         drm: {
             clearkey: {
                 keyId: "17340c4223a4674b1b7da8d8d9e11174",
@@ -121,7 +121,7 @@ const videoChannels = [
         category: "Sports",
         file: "https://av-ch-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd",
         description: "Combat sports and action-packed programs.",
-        icon: "https://via.placeholder.com/30",
+        icon: "https://da.gd/w5SoNu",
         drm: {
             clearkey: {
                 keyId: "d2159ffe3be22ed4916a6abe4d58d265",
@@ -134,7 +134,7 @@ const videoChannels = [
         category: "News",
         file: "https://av-ch-cdn.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd",
         description: "Indonesia's state-owned television station.",
-        icon: "https://via.placeholder.com/30",
+        icon: "https://da.gd/w5SoNu",
         drm: {
             clearkey: {
                 keyId: "ca65af90adc5e3ddb180e16426bb67da",
@@ -147,7 +147,7 @@ const videoChannels = [
         category: "Sports",
         file: "https://av-ch-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd",
         description: "Comprehensive sports coverage.",
-        icon: "https://via.placeholder.com/30",
+        icon: "https://da.gd/w5SoNu",
         drm: {
             clearkey: {
                 keyId: "531c6d50e3e9f9ba66446f624f492289",
@@ -160,7 +160,7 @@ const videoChannels = [
         category: "Sports",
         file: "https://av-ch-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd",
         description: "Your go-to channel for sports and live events.",
-        icon: "https://via.placeholder.com/30",
+        icon: "https://da.gd/w5SoNu",
         drm: {
             clearkey: {
                 keyId: "45fec91ce1f19b6b1f31d69dcfaaf6cd",
@@ -173,7 +173,7 @@ const videoChannels = [
         category: "Sports",
         file: "https://av-ch-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd",
         description: "Highlights and live coverage of soccer events.",
-        icon: "https://via.placeholder.com/30",
+        icon: "https://da.gd/w5SoNu",
         drm: {
             clearkey: {
                 keyId: "fadd2720deff5925ab86df0819cd7775",
@@ -186,7 +186,7 @@ const videoChannels = [
         category: "Sports",
         file: "https://av-ch-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd",
         description: "Exclusive channel for soccer fans.",
-        icon: "https://via.placeholder.com/30",
+        icon: "https://da.gd/w5SoNu",
         drm: {
             clearkey: {
                 keyId: "4d38060bf41b3c29df0ec950ece6b5da",
@@ -199,7 +199,7 @@ const videoChannels = [
         category: "Entertainment",
         file: "https://av-ch-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd",
         description: "Indonesian entertainment channel.",
-        icon: "https://via.placeholder.com/30",
+        icon: "https://da.gd/w5SoNu",
         drm: {
             clearkey: {
                 keyId: "4310edb8b9ffe79abb40bacafa778ec3",
@@ -212,7 +212,7 @@ const videoChannels = [
         category: "Entertainment",
         file: "https://av-ch-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd",
         description: "Indonesia's trendiest entertainment channel.",
-        icon: "https://via.placeholder.com/30",
+        icon: "https://da.gd/w5SoNu",
         drm: {
             clearkey: {
                 keyId: "6b7bbcf1d511a56e6b3ceda392e4fa33",
@@ -225,7 +225,7 @@ const videoChannels = [
         category: "Movies",
         file: "https://av-ch-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd",
         description: "Premium movies and exclusive content.",
-        icon: "https://via.placeholder.com/30",
+        icon: "https://da.gd/w5SoNu",
         drm: {
             clearkey: {
                 keyId: "7bc29ff5f405dff971e3a326223fe26c",
@@ -238,7 +238,7 @@ const videoChannels = [
         category: "Movies",
         file: "https://av-ch-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd",
         description: "Exciting movies and binge-worthy series.",
-        icon: "https://via.placeholder.com/30",
+        icon: "https://da.gd/w5SoNu",
         drm: {
             clearkey: {
                 keyId: "e5c40292f8d01b1d5f0c6b3904d73104",
@@ -251,7 +251,7 @@ const videoChannels = [
         category: "Entertainment",
         file: "https://av-ch-cdn.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd",
         description: "Top-tier entertainment from Asia.",
-        icon: "https://via.placeholder.com/30",
+        icon: "https://da.gd/w5SoNu",
         drm: {
             clearkey: {
                 keyId: "742131dbcb507c31502eb60b32be6bb8",
@@ -264,7 +264,7 @@ const videoChannels = [
         category: "Action",
         file: "https://av-ch-cdn.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd",
         description: "Action-packed movies and shows.",
-        icon: "https://via.placeholder.com/30",
+        icon: "https://da.gd/w5SoNu",
         drm: {
             clearkey: {
                 keyId: "fe761e8fac143d40510e70825dad0b20",
@@ -277,7 +277,7 @@ const videoChannels = [
         category: "Movies",
         file: "https://av-ch-cdn.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd",
         description: "Latest blockbuster movies.",
-        icon: "https://via.placeholder.com/30",
+        icon: "https://da.gd/w5SoNu",
         drm: {
             clearkey: {
                 keyId: "fba45325e2cd8355972ede4981f43b2a",
@@ -290,7 +290,7 @@ const videoChannels = [
         category: "Movies",
         file: "https://av-ch-cdn.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd",
         description: "Classic movies from Asia.",
-        icon: "https://via.placeholder.com/30",
+        icon: "https://da.gd/w5SoNu",
         drm: {
             clearkey: {
                 keyId: "12da619438b3748da206142216d0943b",
@@ -303,7 +303,7 @@ const videoChannels = [
         category: "Anime",
         file: "https://av-ch-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd",
         description: "Anime channel featuring the best series.",
-        icon: "https://via.placeholder.com/30",
+        icon: "https://da.gd/w5SoNu",
         drm: {
             clearkey: {
                 keyId: "6344a8272809245e3fa9d926099528c3",
@@ -316,7 +316,7 @@ const videoChannels = [
         category: "Kids",
         file: "https://av-ch-cdn.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd",
         description: "Cartoons and kids' programs.",
-        icon: "https://via.placeholder.com/30",
+        icon: "https://da.gd/w5SoNu",
         drm: {
             clearkey: {
                 keyId: "785024598882dc751652cea2bce44b8e",
@@ -329,7 +329,7 @@ const videoChannels = [
         category: "Kids",
         file: "https://av-ch-cdn.mncnow.id/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd",
         description: "Fun and educational programs for younger kids.",
-        icon: "https://via.placeholder.com/30",
+        icon: "https://da.gd/w5SoNu",
         drm: {
             clearkey: {
                 keyId: "f71ca09f57ea09e27ee63d7d1f0d0e31",
@@ -342,7 +342,7 @@ const videoChannels = [
         category: "Kids",
         file: "https://av-ch-cdn.mncnow.id/live/eds/MiaoMi/sa_dash_vmx/MiaoMi.mpd",
         description: "Channel for kids featuring Mandarin content.",
-        icon: "https://via.placeholder.com/30",
+        icon: "https://da.gd/w5SoNu",
         drm: {
             clearkey: {
                 keyId: "e179c8d2ae0ddf520b905823d417f028",
@@ -355,7 +355,7 @@ const videoChannels = [
         category: "Kids",
         file: "https://av-ch-cdn.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd",
         description: "Educational and fun programs for young children.",
-        icon: "https://via.placeholder.com/30",
+        icon: "https://da.gd/w5SoNu",
         drm: {
             clearkey: {
                 keyId: "194891b41223a5f1ec2beff1c95e2f53",
@@ -368,7 +368,7 @@ const videoChannels = [
         category: "Kids",
         file: "https://av-ch-cdn.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.mpd",
         description: "The best cartoons for kids and teens.",
-        icon: "https://via.placeholder.com/30",
+        icon: "https://da.gd/w5SoNu",
         drm: {
             clearkey: {
                 keyId: "37ef71f668c1c1126595be0f557587f5",
@@ -381,7 +381,7 @@ const videoChannels = [
         category: "Kids",
         file: "https://av-ch-cdn.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd",
         description: "Classic cartoons for kids and families.",
-        icon: "https://via.placeholder.com/30",
+        icon: "https://da.gd/w5SoNu",
         drm: {
             clearkey: {
                 keyId: "5ff6154f28d6950063f9f5b4db7be009",
@@ -394,7 +394,7 @@ const videoChannels = [
         category: "Kids",
         file: "https://av-ch-cdn.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.mpd",
         description: "Programs designed for toddlers and babies.",
-        icon: "https://via.placeholder.com/30",
+        icon: "https://da.gd/w5SoNu",
         drm: {
             clearkey: {
                 keyId: "2fc62ba18b44dce828a5fb8a213d6e5b",
@@ -407,7 +407,7 @@ const videoChannels = [
         category: "Documentary",
         file: "https://av-ch-cdn.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd",
         description: "Explore the wonders of nature and wildlife.",
-        icon: "https://via.placeholder.com/30",
+        icon: "https://da.gd/w5SoNu",
         drm: {
             clearkey: {
                 keyId: "c3066eaa0984588f78d12dcdb75ef88b",
@@ -420,7 +420,7 @@ const videoChannels = [
         category: "Documentary",
         file: "https://av-ch-cdn.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd",
         description: "The ultimate channel for exploration and discovery.",
-        icon: "https://via.placeholder.com/30",
+        icon: "https://da.gd/w5SoNu",
         drm: {
             clearkey: {
                 keyId: "05457a5e16a76fe666a22cc7ae2c6548",
@@ -433,7 +433,7 @@ const videoChannels = [
         category: "Documentary",
         file: "https://av-ch-cdn.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd",
         description: "Documentaries on science, technology, and history.",
-        icon: "https://via.placeholder.com/30",
+        icon: "https://da.gd/w5SoNu",
         drm: {
             clearkey: {
                 keyId: "8b27270c10422acdf2b70c296c8ddb29",
@@ -446,7 +446,7 @@ const videoChannels = [
         category: "Documentary",
         file: "https://av-ch-cdn.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd",
         description: "Captivating nature and environmental documentaries.",
-        icon: "https://via.placeholder.com/30",
+        icon: "https://da.gd/w5SoNu",
         drm: {
             clearkey: {
                 keyId: "c154c12b5f8336cc9cbef82fb5cc0ab4",
@@ -459,7 +459,7 @@ const videoChannels = [
         category: "Documentary",
         file: "https://av-ch-cdn.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd",
         description: "Dive into the world of animals and nature.",
-        icon: "https://via.placeholder.com/30",
+        icon: "https://da.gd/w5SoNu",
         drm: {
             clearkey: {
                 keyId: "ccc52e94c493492773612a04fa3a1ae1",
@@ -472,7 +472,7 @@ const videoChannels = [
         category: "Lifestyle",
         file: "https://av-ch-cdn.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd",
         description: "Lifestyle and reality shows.",
-        icon: "https://via.placeholder.com/30",
+        icon: "https://da.gd/w5SoNu",
         drm: {
             clearkey: {
                 keyId: "b9c123fbf587e6524b2706bd960c7f67",
@@ -485,7 +485,7 @@ const videoChannels = [
         category: "Entertainment",
         file: "https://av-ch-cdn.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd",
         description: "Dramatic and entertaining stories.",
-        icon: "https://via.placeholder.com/30",
+        icon: "https://da.gd/w5SoNu",
         drm: {
             clearkey: {
                 keyId: "8bd8efd4840c37f50f8a053f92e9b015",
@@ -498,7 +498,7 @@ const videoChannels = [
         category: "Lifestyle",
         file: "https://liveaneviadev.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd",
         description: "All about home improvement and design.",
-        icon: "https://via.placeholder.com/30",
+        icon: "https://da.gd/w5SoNu",
         drm: {
             clearkey: {
                 keyId: "c704a6e7fb9e79809a542dcb04583835",
@@ -511,7 +511,7 @@ const videoChannels = [
         category: "Lifestyle",
         file: "https://av-ch-cdn.mncnow.id/live/eds/AFN-HD/sa_dash_vmx/AFN-HD.mpd",
         description: "Delicious cooking and culinary inspiration.",
-        icon: "https://via.placeholder.com/30",
+        icon: "https://da.gd/w5SoNu",
         drm: {
             clearkey: {
                 keyId: "57d2ac9210cfbca3596cc679a01c8b29",
@@ -524,7 +524,7 @@ const videoChannels = [
         category: "Entertainment",
         file: "https://av-ch-cdn.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd",
         description: "Korean entertainment and cultural programs.",
-        icon: "https://via.placeholder.com/30",
+        icon: "https://da.gd/w5SoNu",
         drm: {
             clearkey: {
                 keyId: "9bc202de2b177ff5bb64dacb0ab3fd8d",
@@ -537,7 +537,7 @@ const videoChannels = [
         category: "News",
         file: "https://av-ch-cdn.mncnow.id/live/eds/AustraliaPlus/sa_dash_vmx/AustraliaPlus.mpd",
         description: "News and updates from Australia.",
-        icon: "https://via.placeholder.com/30",
+        icon: "https://da.gd/w5SoNu",
         drm: {
             clearkey: {
                 keyId: "a2dd864fc95998efd52979e5f732e029",
@@ -550,7 +550,7 @@ const videoChannels = [
         category: "News",
         file: "https://av-ch-cdn.mncnow.id/live/eds/TRTWorld/sa_dash_vmx/TRTWorld.mpd",
         description: "International news and current affairs.",
-        icon: "https://via.placeholder.com/30",
+        icon: "https://da.gd/w5SoNu",
         drm: {
             clearkey: {
                 keyId: "2664cc86dfb0f48e6b3f792dd4e8983c",
@@ -563,7 +563,7 @@ const videoChannels = [
         category: "News",
         file: "https://av-ch-cdn.mncnow.id/live/eds/RTEnglish/sa_dash_vmx/RTEnglish.mpd",
         description: "Global news and in-depth analysis.",
-        icon: "https://via.placeholder.com/30",
+        icon: "https://da.gd/w5SoNu",
         drm: {
             clearkey: {
                 keyId: "ec5705bb82f3e66b054de048287fd3a4",
@@ -576,7 +576,7 @@ const videoChannels = [
         category: "News",
         file: "https://av-ch-cdn.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremium.mpd",
         description: "Premium Japanese programming and news.",
-        icon: "https://via.placeholder.com/30",
+        icon: "https://da.gd/w5SoNu",
         drm: {
             clearkey: {
                 keyId: "a56d6a274eb073cdf94754bd0ffe3335",
@@ -589,7 +589,7 @@ const videoChannels = [
         category: "News",
         file: "https://av-ch-cdn.mncnow.id/live/eds/NHKWorldTV/sa_dash_vmx/NHKWorldTV.mpd",
         description: "Japan's international broadcasting service.",
-        icon: "https://via.placeholder.com/30",
+        icon: "https://da.gd/w5SoNu",
         drm: {
             clearkey: {
                 keyId: "62ce01c83653c3f20af6bcafc6979fe6",
@@ -602,7 +602,7 @@ const videoChannels = [
         category: "News",
         file: "https://av-ch-cdn.mncnow.id/live/eds/France24/sa_dash_vmx/France24.mpd",
         description: "International news and European perspectives.",
-        icon: "https://via.placeholder.com/30",
+        icon: "https://da.gd/w5SoNu",
         drm: {
             clearkey: {
                 keyId: "2968b8d8884c66ebfc54b53bee1070ee",
@@ -615,7 +615,7 @@ const videoChannels = [
         category: "News",
         file: "https://av-ch-cdn.mncnow.id/live/eds/FoxNews/sa_dash_vmx/FoxNews.mpd",
         description: "Breaking news and live coverage.",
-        icon: "https://via.placeholder.com/30",
+        icon: "https://da.gd/w5SoNu",
         drm: {
             clearkey: {
                 keyId: "a547a31e9c19c36f94d120a83f61f92d",
@@ -628,7 +628,7 @@ const videoChannels = [
         category: "News",
         file: "https://av-ch-cdn.mncnow.id/live/eds/EuroNews/sa_dash_vmx/EuroNews.mpd",
         description: "Multilingual news and European updates.",
-        icon: "https://via.placeholder.com/30",
+        icon: "https://da.gd/w5SoNu",
         drm: {
             clearkey: {
                 keyId: "9acec565e4d5e994523b3b18e0a7521e",
@@ -641,7 +641,7 @@ const videoChannels = [
         category: "News",
         file: "https://av-ch-cdn.mncnow.id/live/eds/DW/sa_dash_vmx/DW.mpd",
         description: "Germany's international news broadcaster.",
-        icon: "https://via.placeholder.com/30",
+        icon: "https://da.gd/w5SoNu",
         drm: {
             clearkey: {
                 keyId: "4472db9a36186f11703d04a4adbbf279",
@@ -654,7 +654,7 @@ const videoChannels = [
         category: "News",
         file: "https://av-ch-cdn.mncnow.id/live/eds/CNNInternational/sa_dash_vmx/CNNInternational.mpd",
         description: "Comprehensive global news coverage.",
-        icon: "https://via.placeholder.com/30",
+        icon: "https://da.gd/w5SoNu",
         drm: {
             clearkey: {
                 keyId: "faa79feb03b3ebf0e4566e649cb938f0",
@@ -667,7 +667,7 @@ const videoChannels = [
         category: "News",
         file: "https://av-ch-cdn.mncnow.id/live/eds/CNBC/sa_dash_vmx/CNBC.mpd",
         description: "Business news and market insights.",
-        icon: "https://via.placeholder.com/30",
+        icon: "https://da.gd/w5SoNu",
         drm: {
             clearkey: {
                 keyId: "a6de9ad0c51e2673f543b71ac5a54211",
@@ -680,7 +680,7 @@ const videoChannels = [
         category: "News",
         file: "https://av-ch-cdn.mncnow.id/live/eds/Bloomberg/sa_dash_vmx/Bloomberg.mpd",
         description: "Latest in global markets and financial updates.",
-        icon: "https://via.placeholder.com/30",
+        icon: "https://da.gd/w5SoNu",
         drm: {
             clearkey: {
                 keyId: "272401a5b200375e49a4712cf39f369c",
@@ -693,7 +693,7 @@ const videoChannels = [
         category: "News",
         file: "https://av-ch-cdn.mncnow.id/live/eds/BBCWorldNews/sa_dash_vmx/BBCWorldNews.mpd",
         description: "International news and analysis from the BBC.",
-        icon: "https://via.placeholder.com/30",
+        icon: "https://da.gd/w5SoNu",
         drm: {
             clearkey: {
                 keyId: "82e458dc5613eaaa2608de8d190f1637",
@@ -706,7 +706,7 @@ const videoChannels = [
         category: "News",
         file: "https://av-ch-cdn.mncnow.id/live/eds/AlJazeeraInternational/sa_dash_vmx/AlJazeeraInternational.mpd",
         description: "International news and in-depth reporting.",
-        icon: "https://via.placeholder.com/30",
+        icon: "https://da.gd/w5SoNu",
         drm: {
             clearkey: {
                 keyId: "59b86c4bc0dc5de64bdfafe5152cc8f1",
@@ -719,7 +719,7 @@ const videoChannels = [
         category: "Regional",
         file: "https://av-ch-cdn.mncnow.id/live/eds/TV9/sa_dash_vmx/TV9.mpd",
         description: "Regional programming and local news.",
-        icon: "https://via.placeholder.com/30",
+        icon: "https://da.gd/w5SoNu",
         drm: {
             clearkey: {
                 keyId: "ce1a653fafa780cd4a8747c08872e3ab",
@@ -732,7 +732,7 @@ const videoChannels = [
         category: "Religious",
         file: "https://av-ch-cdn.mncnow.id/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd",
         description: "Islamic content and live prayer coverage.",
-        icon: "https://via.placeholder.com/30",
+        icon: "https://da.gd/w5SoNu",
         drm: {
             clearkey: {
                 keyId: "52bc18038d025c26ead432fa521f83a",
@@ -745,7 +745,7 @@ const videoChannels = [
         category: "Religious",
         file: "https://av-ch-cdn.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd",
         description: "Islamic content and educational programming.",
-        icon: "https://via.placeholder.com/30",
+        icon: "https://da.gd/w5SoNu",
         drm: {
             clearkey: {
                 keyId: "eefa1c34afba72f8fe902b061632528f",
@@ -758,7 +758,7 @@ const videoChannels = [
         category: "Movies",
         file: "https://av-ch-cdn.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd",
         description: "Asian blockbuster movies.",
-        icon: "https://via.placeholder.com/30",
+        icon: "https://da.gd/w5SoNu",
         drm: {
             clearkey: {
                 keyId: "13aecb26aeee22bc86920045f22d134d",
@@ -771,7 +771,7 @@ const videoChannels = [
         category: "Documentary",
         file: "https://av-ch-cdn.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd",
         description: "Real-life crime stories and investigations.",
-        icon: "https://via.placeholder.com/30",
+        icon: "https://da.gd/w5SoNu",
         drm: {
             clearkey: {
                 keyId: "dc6157edc80fa15e6b6f23e695d461e4",
@@ -784,7 +784,7 @@ const videoChannels = [
         category: "Entertainment",
         file: "https://av-ch-cdn.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd",
         description: "Entertainment and variety shows.",
-        icon: "https://via.placeholder.com/30",
+        icon: "https://da.gd/w5SoNu",
         drm: {
             clearkey: {
                 keyId: "50056951f6d5f5fbaf286cd99c965379",
@@ -797,7 +797,7 @@ const videoChannels = [
         category: "Entertainment",
         file: "https://av-ch-cdn.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd",
         description: "Asian drama and entertainment.",
-        icon: "https://via.placeholder.com/30",
+        icon: "https://da.gd/w5SoNu",
         drm: {
             clearkey: {
                 keyId: "7b212a67ce3e8b056af85b890e3de811",
@@ -810,7 +810,7 @@ const videoChannels = [
         category: "Lifestyle",
         file: "https://av-ch-cdn.mncnow.id/live/eds/LifeStyleFashion/sa_dash_vmx/LifeStyleFashion.mpd",
         description: "Trendy lifestyle and fashion programs.",
-        icon: "https://via.placeholder.com/30",
+        icon: "https://da.gd/w5SoNu",
         drm: {
             clearkey: {
                 keyId: "eeba2c9c08078d2a729328dbcd1e002b",
@@ -823,7 +823,7 @@ const videoChannels = [
         category: "News",
         file: "https://av-ch-cdn.mncnow.id/live/eds/ChannelNewsAsia/sa_dash_vmx/ChannelNewsAsia.mpd",
         description: "In-depth Asian news and analysis.",
-        icon: "https://via.placeholder.com/30",
+        icon: "https://da.gd/w5SoNu",
         drm: {
             clearkey: {
                 keyId: "e1ae750e09889a610744516182c8e95a",
@@ -836,7 +836,7 @@ const videoChannels = [
         category: "News",
         file: "https://av-ch-cdn.mncnow.id/live/eds/SEA-Channel/sa_dash_vmx/SEA-Channel.mpd",
         description: "Southeast Asian news and culture.",
-        icon: "https://via.placeholder.com/30",
+        icon: "https://da.gd/w5SoNu",
         drm: {
             clearkey: {
                 keyId: "dfb76a400a6af053881f7fff14483323",
@@ -849,7 +849,7 @@ const videoChannels = [
         category: "Business",
         file: "https://av-ch-cdn.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd",
         description: "Stock market updates and financial news.",
-        icon: "https://via.placeholder.com/30",
+        icon: "https://da.gd/w5SoNu",
         drm: {
             clearkey: {
                 keyId: "fbdbe252e6354b175852d1929c42d848",
@@ -862,7 +862,7 @@ const videoChannels = [
         category: "Regional",
         file: "https://av-ch-cdn.mncnow.id/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd",
         description: "Local programs and news from Bandung.",
-        icon: "https://via.placeholder.com/30",
+        icon: "https://da.gd/w5SoNu",
         drm: {
             clearkey: {
                 keyId: "a7fd43751f24d64a16f6f4d289ebd395",
@@ -875,7 +875,7 @@ const videoChannels = [
         category: "Religious",
         file: "https://av-ch-cdn.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd",
         description: "Inspirational programs with a focus on compassion and humanity.",
-        icon: "https://via.placeholder.com/30",
+        icon: "https://da.gd/w5SoNu",
         drm: {
             clearkey: {
                 keyId: "eb7c09e964e89e668266ea31f2710ffa",
@@ -888,7 +888,7 @@ const videoChannels = [
         category: "Regional",
         file: "https://av-ch-cdn.mncnow.id/live/eds/JTV/sa_dash_vmx/JTV.mpd",
         description: "Local programs and news from East Java.",
-        icon: "https://via.placeholder.com/30",
+        icon: "https://da.gd/w5SoNu",
         drm: {
             clearkey: {
                 keyId: "10e203f655014b5d18b0c85a6c72c809",
@@ -901,7 +901,7 @@ const videoChannels = [
         category: "News",
         file: "https://av-ch-cdn.mncnow.id/live/eds/CGTN/sa_dash_vmx/CGTN.mpd",
         description: "China Global Television Network: International news coverage.",
-        icon: "https://via.placeholder.com/30",
+        icon: "https://da.gd/w5SoNu",
         drm: {
             clearkey: {
                 keyId: "725ccd861fa88300c0e1d258b20bc9b1",
@@ -914,7 +914,7 @@ const videoChannels = [
         category: "Movies",
         file: "https://av-ch-cdn.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd",
         description: "Asian blockbuster movies and exclusive content.",
-        icon: "https://via.placeholder.com/30",
+        icon: "https://da.gd/w5SoNu",
         drm: {
             clearkey: {
                 keyId: "45c004003b09719751adb885d28d491f",
@@ -927,7 +927,7 @@ const videoChannels = [
         category: "Regional",
         file: "https://av-ch-cdn.mncnow.id/live/eds/AnhuiTV/sa_dash_vmx/AnhuiTV.mpd",
         description: "Chinese entertainment and variety shows.",
-        icon: "https://via.placeholder.com/30",
+        icon: "https://da.gd/w5SoNu",
         drm: {
             clearkey: {
                 keyId: "6935d1a7c21abca8907b1a7b63f2d2c9",
@@ -940,7 +940,7 @@ const videoChannels = [
         category: "Movies",
         file: "https://anevia114.mncnow.id//live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd",
         description: "World cinema featuring films from around the globe.",
-        icon: "https://via.placeholder.com/30",
+        icon: "https://da.gd/w5SoNu",
         drm: {
             clearkey: {
                 keyId: "958df746f24f371dffc95e7cd714fbd7",
@@ -953,7 +953,7 @@ const videoChannels = [
         category: "Religious",
         file: "https://anevia114.mncnow.id//live/eds/EWTN/sa_dash_vmx/EWTN.mpd",
         description: "Catholic programming and religious services.",
-        icon: "https://via.placeholder.com/30",
+        icon: "https://da.gd/w5SoNu",
         drm: {
             clearkey: {
                 keyId: "cb2393dc078c4b708cce148304db1ea7",
@@ -966,7 +966,7 @@ const videoChannels = [
         category: "Regional",
         file: "https://av-ch-cdn.mncnow.id/live/eds/JiangsuTV/sa_dash_vmx/JiangsuTV.mpd",
         description: "Chinese entertainment, drama, and variety.",
-        icon: "https://via.placeholder.com/30",
+        icon: "https://da.gd/w5SoNu",
         drm: {
             clearkey: {
                 keyId: "ab3b56e3b5bd35ee40d1f18a8e2a73f0",
@@ -979,7 +979,7 @@ const videoChannels = [
         category: "Regional",
         file: "https://av-ch-cdn.mncnow.id/live/eds/HunanTV/sa_dash_vmx/HunanTV.mpd",
         description: "Popular Chinese dramas and variety shows.",
-        icon: "https://via.placeholder.com/30",
+        icon: "https://da.gd/w5SoNu",
         drm: {
             clearkey: {
                 keyId: "0e9df1ff194224dd922a4ee50a083ea8",
@@ -992,7 +992,7 @@ const videoChannels = [
         category: "Movies",
         file: "https://av-ch-cdn.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd",
         description: "Horror and thriller movies from Asia and beyond.",
-        icon: "https://via.placeholder.com/30",
+        icon: "https://da.gd/w5SoNu",
         drm: {
             clearkey: {
                 keyId: "06e7e95fdb30086d24111f300c9d91f1",
@@ -1005,7 +1005,7 @@ const videoChannels = [
         category: "Movies",
         file: "https://av-ch-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd",
         description: "Bollywood hits and Indian cinema.",
-        icon: "https://via.placeholder.com/30",
+        icon: "https://da.gd/w5SoNu",
         drm: {
             clearkey: {
                 keyId: "9e7df70530006bef067327cefde82c0e",
@@ -1018,7 +1018,7 @@ const videoChannels = [
         category: "Entertainment",
         file: "https://anevia114.mncnow.id//live/eds/AXN/sa_dash_vmx/AXN.mpd",
         description: "Action-packed series and movies.",
-        icon: "https://via.placeholder.com/30",
+        icon: "https://da.gd/w5SoNu",
         drm: {
             clearkey: {
                 keyId: "c5d5297a84f8b2de977f07286345c591",
@@ -1031,7 +1031,7 @@ const videoChannels = [
         category: "Entertainment",
         file: "https://av-ch-cdn.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd",
         description: "Variety of family-friendly entertainment.",
-        icon: "https://via.placeholder.com/30",
+        icon: "https://da.gd/w5SoNu",
         drm: {
             clearkey: {
                 keyId: "009a1278e0755ed82e70df01460e90c3",
@@ -1044,7 +1044,7 @@ const videoChannels = [
         category: "Documentary",
         file: "https://av-ch-cdn.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd",
         description: "Nature and environmental documentaries from BBC.",
-        icon: "https://via.placeholder.com/30",
+        icon: "https://da.gd/w5SoNu",
         drm: {
             clearkey: {
                 keyId: "c154c12b5f8336cc9cbef82fb5cc0ab4",
@@ -1057,7 +1057,7 @@ const videoChannels = [
         category: "Documentary",
         file: "https://av-ch-cdn.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd",
         description: "Explore the world with National Geographic.",
-        icon: "https://via.placeholder.com/30",
+        icon: "https://da.gd/w5SoNu",
         drm: {
             clearkey: {
                 keyId: "05457a5e16a76fe666a22cc7ae2c6548",
@@ -1070,7 +1070,7 @@ const videoChannels = [
         category: "Entertainment",
         file: "https://av-ch-cdn.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd",
         description: "Entertainment and lifestyle programs.",
-        icon: "https://via.placeholder.com/30",
+        icon: "https://da.gd/w5SoNu",
         drm: {
             clearkey: {
                 keyId: "57d2ac9210cfbca3596cc679a01c8b29",
@@ -1083,7 +1083,7 @@ const videoChannels = [
         category: "Entertainment",
         file: "https://av-ch-cdn.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd",
         description: "Movies, shows, and entertainment from Warner Bros.",
-        icon: "https://via.placeholder.com/30",
+        icon: "https://da.gd/w5SoNu",
         drm: {
             clearkey: {
                 keyId: "355764373f8a926534fbc42666ab7b13",
@@ -1096,7 +1096,7 @@ const videoChannels = [
         category: "Movies",
         file: "https://av-ch-cdn.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd",
         description: "Blockbuster movies and cinematic hits.",
-        icon: "https://via.placeholder.com/30",
+        icon: "https://da.gd/w5SoNu",
         drm: {
             clearkey: {
                 keyId: "5d9684b1737e3b68801b4cff7225d4bb",
@@ -1109,7 +1109,7 @@ const videoChannels = [
         category: "Entertainment",
         file: "https://av-ch-cdn.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd",
         description: "Classic TV shows and timeless entertainment.",
-        icon: "https://via.placeholder.com/30",
+        icon: "https://da.gd/w5SoNu",
         drm: {
             clearkey: {
                 keyId: "78d17d4851a5e9eede96f283b15ec053",
@@ -1122,7 +1122,7 @@ const videoChannels = [
         category: "Movies",
         file: "https://av-ch-cdn.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd",
         description: "Family-friendly movies and series from HBO.",
-        icon: "https://via.placeholder.com/30",
+        icon: "https://da.gd/w5SoNu",
         drm: {
             clearkey: {
                 keyId: "be6190a3cfbbed4ec34e4d9c7a30e1e",
@@ -1135,7 +1135,7 @@ const videoChannels = [
         category: "Movies",
         file: "https://av-ch-cdn.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd",
         description: "Award-winning movies and exclusive HBO series.",
-        icon: "https://via.placeholder.com/30",
+        icon: "https://da.gd/w5SoNu",
         drm: {
             clearkey: {
                 keyId: "b64eee6360b118d0d90329cc2c9e4c60",
@@ -1148,7 +1148,7 @@ const videoChannels = [
         category: "Movies",
         file: "https://av-ch-cdn.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd",
         description: "Top-rated movies from around the globe.",
-        icon: "https://via.placeholder.com/30",
+        icon: "https://da.gd/w5SoNu",
         drm: {
             clearkey: {
                 keyId: "6c256f70830647e4bdf654d86e710ed5",
@@ -1161,7 +1161,7 @@ const videoChannels = [
         category: "Movies",
         file: "https://av-ch-cdn.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd",
         description: "Blockbusters, series, and exclusive HBO originals.",
-        icon: "https://via.placeholder.com/30",
+        icon: "https://da.gd/w5SoNu",
         drm: {
             clearkey: {
                 keyId: "eeea0c2986e91a13eacd590ad1ebfe43",
