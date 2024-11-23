@@ -1169,7 +1169,7 @@ const videoChannels = [
             }
         }
     }
-    
+    // Tambahkan saluran lainnya dengan format yang sama
 ];
 
 /**
