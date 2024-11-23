@@ -51,6 +51,19 @@ const videoChannels = [
             }
         }
     },
+    {
+        name: "RCTI",
+        category: "Hiburan",
+        file: "https://av-ch-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd",
+        description: "Saluran program drama, film, dan berita.",
+        icon: "https://via.placeholder.com/30",
+        drm: {
+            clearkey: {
+                keyId: "9ba3e153ef8956d6e2b0684fcf74f58f",
+                key: "dbc28cb5c6426080f984a5b6d436bb30"
+            }
+        }
+    },
 {
         name: "Music TV",
         category: "Music",
@@ -1155,20 +1168,8 @@ const videoChannels = [
                 key: "0acc16bd84921489f67bad19e4099cae"
             }
         }
-    },
-    {
-        name: "RCTI",
-        category: "Hiburan",
-        file: "https://av-ch-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd",
-        description: "Saluran program drama, film, dan berita.",
-        icon: "https://via.placeholder.com/30",
-        drm: {
-            clearkey: {
-                keyId: "9ba3e153ef8956d6e2b0684fcf74f58f",
-                key: "dbc28cb5c6426080f984a5b6d436bb30"
-            }
-        }
     }
+    
 ];
 
 /**
