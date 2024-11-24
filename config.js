@@ -1,11 +1,11 @@
 const videoChannels = [
     {
-        name: "TES",
-        category: "EVENT",
+        name: "Premier League",
+        category: "Soccer",
         file: "https://lebo.huminbird.cn/live/ballbar_11290.m3u8",
         fallbackFile: "https://wartakita.github.io/player.github.io/gangguan.mp4",
-        description: "Saluran tentang sejarah dan dokumentasi.",
-        icon: "https://da.gd/w5SoNu",
+        description: "Ipswich vs Manchester Utd",
+        icon: "https://www.thesportsdb.com/images/media/league/badge/dsnjpz1679951317.png/small",
     },
     {
         name: "History",
