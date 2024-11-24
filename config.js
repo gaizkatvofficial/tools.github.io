@@ -1,5 +1,13 @@
 const videoChannels = [
     {
+        name: "TES",
+        category: "EVENT",
+        file: "https://lebo.huminbird.cn/live/ballbar_11290.m3u8",
+        fallbackFile: "https://wartakita.github.io/player.github.io/gangguan.mp4",
+        description: "Saluran tentang sejarah dan dokumentasi.",
+        icon: "https://da.gd/w5SoNu",
+    },
+    {
         name: "History",
         category: "History",
         file: "https://av-ch-cdn.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd",
