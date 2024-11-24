@@ -1024,7 +1024,7 @@ const videoChannels = [
     {
         name: "EWTN",
         category: "Religious",
-        file: "https://anevia114.mncnow.id//live/eds/EWTN/sa_dash_vmx/EWTN.mpd",
+        file: "https://av-ch-cdn.mncnow.id/live/eds/EWTN/sa_dash_vmx/EWTN.mpd",
         fallbackFile: "https://wartakita.github.io/player.github.io/gangguan.mp4",
         description: "Catholic programming and religious services.",
         icon: "https://da.gd/w5SoNu",
