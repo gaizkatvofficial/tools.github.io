@@ -1,5 +1,11 @@
 [
     {
+        "id": "Soccer",
+        "name": "All Saints Utd vs John Hughes",
+        "category": "Liga 1",
+        "url": "https://lebo.huminbird.cn/live/ballbar_29440.m3u8"
+    },
+    {
         "id": "channel1",
         "name": "Live Streaming Channel 1",
         "category": "Berita",
