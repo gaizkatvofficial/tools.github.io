@@ -150,6 +150,198 @@
         }
     },
     {
+        "id": "DAZN 1",
+        "name": "DAZN 1",
+        "category": "Sports",
+        "url": "https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd",
+        "drm": {
+            "clearkey": {
+                "keyId": "44dd9cd370b08a868ead115fe84ecfde",
+                "key": "bff19ab0a51cf14e848389b152913fd0"
+            }
+        }
+    },
+    {
+        "id": "DAZN 2",
+        "name": "DAZN 2",
+        "category": "Sports",
+        "url": "https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/xnk4m9bnxt/out/v1/4ced7b7329a54652b9bb0521ed38bd4d/cenc.mpd",
+        "drm": {
+            "clearkey": {
+                "keyId": "0eab5a3f3e3b4ba5d42d40ca30d17571",
+                "key": "f3f061ded9b70e8160590d5802ecda6d"
+            }
+        }
+    },
+    {
+        "id": "DAZN 3",
+        "name": "DAZN 3",
+        "category": "Sports",
+        "url": "https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/zy1ee5sshp/out/v1/bdcffa69fa3b4f3bb3569c9c73ee1c01/cenc.mpd",
+        "drm": {
+            "clearkey": {
+                "keyId": "bad8efff688c0dbb3711e4a7114c22a3",
+                "key": "6ba800673b20776c0c850130d45e1920"
+            }
+        }
+    },
+    {
+        "id": "DAZN 4",
+        "name": "DAZN 4",
+        "category": "Sports",
+        "url": "https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/up7qpwch9b/out/v1/a6d5d1a1287b4893b859c2d6ccf2c65d/cenc.mpd",
+        "drm": {
+            "clearkey": {
+                "keyId": "d27104d427e4f87e75b19395a9f8796b",
+                "key": "723593c70e2d4c4862754398e80168f8"
+            }
+        }
+    },
+    {
+        "id": "DAZN F1",
+        "name": "DAZN F1",
+        "category": "Sports",
+        "url": "https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/cqbcvgkb83/out/v1/4dbe05ecfb1540448d82d68eeebfbb1c/cenc.mpd",
+        "drm": {
+            "clearkey": {
+                "keyId": "1061be12d303247426ec25e8369b2647",
+                "key": "bd622b0e610295de3b0bccb850ccaaaa"
+            }
+        }
+    },
+    {
+        "id": "SPORT1+ HD",
+        "name": "SPORT1+ HD",
+        "category": "Sports",
+        "url": "https://ac-009.live.p7s1video.net/c5c609cf/t_009/sport1plus-de-hd/cenc-default.mpd",
+        "drm": {
+            "clearkey": {
+                "keyId": "c1c11c3844b0dffdb9d9831900f1a1da",
+                "key": "a2c31e15346f339ca2b47bdd8591553f"
+            }
+        }
+    },
+    {
+        "id": "Unifi Sports",
+        "name": "Unifi Sports",
+        "category": "Sports",
+        "url": "https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd",
+        "drm": {
+            "clearkey": {
+                "keyId": "cbb673fb120882354735ed57eeb05b4c",
+                "key": "fe003f7aeec40eb65d20b14edfda2a86"
+            }
+        }
+    },
+    {
+        "id": "Nova Sports 1",
+        "name": "Nova Sports 1",
+        "category": "Sports",
+        "url": "https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd",
+        "drm": {
+            "clearkey": {
+                "keyId": "11223344556677889900112233445566",
+                "key": "4b80724d0ef86bcb2c21f7999d67739d"
+            }
+        }
+    },
+    {
+        "id": "Nova Sports 2",
+        "name": "Nova Sports 2",
+        "category": "Sports",
+        "url": "https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd",
+        "drm": {
+            "clearkey": {
+                "keyId": "11223344556677889900112233445566",
+                "key": "4b80724d0ef86bcb2c21f7999d67739d"
+            }
+        }
+    },
+    {
+        "id": "Arena Sports 1",
+        "name": "Arena Sports 1",
+        "category": "Sports",
+        "url": "https://webtvstream.bhtelecom.ba/hls6/arena1.mpd",
+        "drm": {
+            "clearkey": {
+                "keyId": "c18b6aa739be4c0b774605fcfb5d6b68",
+                "key": "e41c3a6f7532b2e3a828d9580124c89d"
+            }
+        }
+    },
+    {
+        "id": "Arena Sports 2",
+        "name": "Arena Sports 2",
+        "category": "Sports",
+        "url": "https://webtvstream.bhtelecom.ba/hls6/arena2.mpd",
+        "drm": {
+            "clearkey": {
+                "keyId": "c18b6aa739be4c0b774605fcfb5d6b68",
+                "key": "e41c3a6f7532b2e3a828d9580124c89d"
+            }
+        }
+    },
+    {
+        "id": "Arena Sports 3",
+        "name": "Arena Sports 3",
+        "category": "Sports",
+        "url": "https://webtvstream.bhtelecom.ba/hls6/arena3.mpd",
+        "drm": {
+            "clearkey": {
+                "keyId": "c18b6aa739be4c0b774605fcfb5d6b68",
+                "key": "e41c3a6f7532b2e3a828d9580124c89d"
+            }
+        }
+    },
+    {
+        "id": "Arena Sports 4",
+        "name": "Arena Sports 4",
+        "category": "Sports",
+        "url": "https://webtvstream.bhtelecom.ba/hls6/arena4.mpd",
+        "drm": {
+            "clearkey": {
+                "keyId": "c18b6aa739be4c0b774605fcfb5d6b68",
+                "key": "e41c3a6f7532b2e3a828d9580124c89d"
+            }
+        }
+    },
+    {
+        "id": "Arena Sports 5",
+        "name": "Arena Sports 5",
+        "category": "Sports",
+        "url": "https://webtvstream.bhtelecom.ba/hls6/arena5.mpd",
+        "drm": {
+            "clearkey": {
+                "keyId": "c18b6aa739be4c0b774605fcfb5d6b68",
+                "key": "e41c3a6f7532b2e3a828d9580124c89d"
+            }
+        }
+    },
+    {
+        "id": "Arena Sports 6",
+        "name": "Arena Sports 6",
+        "category": "Sports",
+        "url": "https://webtvstream.bhtelecom.ba/hls6/arena6.mpd",
+        "drm": {
+            "clearkey": {
+                "keyId": "c18b6aa739be4c0b774605fcfb5d6b68",
+                "key": "e41c3a6f7532b2e3a828d9580124c89d"
+            }
+        }
+    },
+    {
+        "id": "Arena Sports 1x2",
+        "name": "Arena Sports 1x2",
+        "category": "Sports",
+        "url": "https://webtvstream.bhtelecom.ba/hls6/arena_1x2.mpd",
+        "drm": {
+            "clearkey": {
+                "keyId": "c18b6aa739be4c0b774605fcfb5d6b68",
+                "key": "e41c3a6f7532b2e3a828d9580124c89d"
+            }
+        }
+    },
+    {
         "id": "Bein Sports 1",
         "name": "Bein Sports 1",
         "category": "Sports",
