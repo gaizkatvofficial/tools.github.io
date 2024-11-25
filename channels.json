@@ -177,7 +177,7 @@
         "id": "Soccer Channel",
         "name": "Soccer Channel",
         "category": "Sports",
-        "url": "https://av-live-cdn.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd",
+        "url": "https://av-ch-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd",
         "drm": {
             "clearkey": {
                 "keyId": "4d38060bf41b3c29df0ec950ece6b5da",
@@ -873,7 +873,7 @@
         "id": "Cinema World",
         "name": "Cinema World",
         "category": "Movies",
-        "url": "https://anevia114.mncnow.id//live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd",
+        "url": "https://av-ch-cdn.mncnow.id//live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd",
         "drm": {
             "clearkey": {
                 "keyId": "958df746f24f371dffc95e7cd714fbd7",
@@ -885,7 +885,7 @@
         "id": "EWTN",
         "name": "EWTN",
         "category": "Religion",
-        "url": "https://anevia114.mncnow.id//live/eds/EWTN/sa_dash_vmx/EWTN.mpd",
+        "url": "https://av-ch-cdn.mncnow.id//live/eds/EWTN/sa_dash_vmx/EWTN.mpd",
         "drm": {
             "clearkey": {
                 "keyId": "cb2393dc078c4b708cce148304db1ea7",
@@ -945,7 +945,7 @@
         "id": "AXN",
         "name": "AXN",
         "category": "Entertainment",
-        "url": "https://anevia114.mncnow.id//live/eds/AXN/sa_dash_vmx/AXN.mpd",
+        "url": "https://av-ch-cdn.mncnow.id//live/eds/AXN/sa_dash_vmx/AXN.mpd",
         "drm": {
             "clearkey": {
                 "keyId": "c5d5297a84f8b2de977f07286345c591",
