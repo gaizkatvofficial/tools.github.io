@@ -798,6 +798,24 @@
         }
     },
     {
+        "id": "SCTV",
+        "name": "SCTV",
+        "category": "Local",
+        "url": "https://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8",
+    },
+    {
+        "id": "Indosiar",
+        "name": "Indosiar",
+        "category": "Local",
+        "url": "https://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8",
+    },
+    {
+        "id": "Moji",
+        "name": "Moji",
+        "category": "Local",
+        "url": "https://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8",
+    },
+    {
         "id": "Bandung TV",
         "name": "Bandung TV",
         "category": "Local",
