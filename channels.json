@@ -42,6 +42,30 @@
         }
     },
     {
+        "id": "TRANS7",
+        "name": "TRANS7",
+        "category": "General",
+        "url": "https://av-ch-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd",
+        "drm": {
+            "clearkey": {
+                "keyId": "26bd60e03bbed7819eea0b27075a1897",
+                "key": "d221ba6a6ab66e3083c001d2c4a3e5c5"
+            }
+        }
+    },
+    {
+        "id": "TRANS TV",
+        "name": "TRANS TV",
+        "category": "General",
+        "url": "https://av-ch-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd",
+        "drm": {
+            "clearkey": {
+                "keyId": "334950781f60a66f5e58324b70ac675d",
+                "key": "73caca97be8999ce9cfeb3babad8669d"
+            }
+        }
+    },
+    {
         "id": "GTV",
         "name": "GTV",
         "category": "General",
@@ -522,6 +546,30 @@
         }
     },
     {
+        "id": "TV ONE",
+        "name": "TV ONE",
+        "category": "News",
+        "url": "https://av-ch-cdn.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd",
+        "drm": {
+            "clearkey": {
+                "keyId": "90204c05545f95a262bb0d3ac45de870",
+                "key": "0e80f2a19fdf8da476bf695cd9570bb2"
+            }
+        }
+    },
+    {
+        "id": "Kompas TV",
+        "name": "Kompas TV",
+        "category": "News",
+        "url": "https://av-ch-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd",
+        "drm": {
+            "clearkey": {
+                "keyId": "493fd10e609dd02ae97964f438e7e530",
+                "key": "695cf9896182c52f1c3a25820e7778f5"
+            }
+        }
+    },
+    {
         "id": "RT English",
         "name": "RT English",
         "category": "News",
@@ -674,6 +722,18 @@
             "clearkey": {
                 "keyId": "ce1a653fafa780cd4a8747c08872e3ab",
                 "key": "d83bcf72b3f5a3d09674602b06caaa71"
+            }
+        }
+    },
+    {
+        "id": "RTV",
+        "name": "RTV",
+        "category": "General",
+        "url": "https://av-ch-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd",
+        "drm": {
+            "clearkey": {
+                "keyId": "30384ee5424eab4afdff34d7a59e0ef9",
+                "key": "5f3d2f2c194266ae9a28210f8976cbe0"
             }
         }
     },
