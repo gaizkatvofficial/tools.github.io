@@ -150,6 +150,102 @@
         }
     },
     {
+        "id": "Infinity+ 1",
+        "name": "Infinity+ 1",
+        "category": "Sports",
+        "url": "https://live03p-seg.msf.cdn.mediaset.net/live/ch-u1/u1-dash-widevine.isml/manifest.mpd",
+        "drm": {
+            "clearkey": {
+                "keyId": "00f9f3c0783536b832a8f0326fbdc02e",
+                "key": "ade0533ba667bb7e9847d8f215f03076"
+            }
+        }
+    },
+    {
+        "id": "Infinity+ 2",
+        "name": "Infinity+ 2",
+        "category": "Sports",
+        "url": "https://live03p-seg.msf.cdn.mediaset.net/live/ch-u2/u2-dash-widevine.isml/manifest.mpd",
+        "drm": {
+            "clearkey": {
+                "keyId": "00f9f3c0783536b834b0f0c2bfee80ac",
+                "key": "76b3afbf163f9c3feb6204b8fcf0ff53"
+            }
+        }
+    },
+    {
+        "id": "Infinity+ 3",
+        "name": "Infinity+ 3",
+        "category": "Sports",
+        "url": "https://live03p-seg.msf.cdn.mediaset.net/live/ch-u3/u3-dash-widevine.isml/manifest.mpd",
+        "drm": {
+            "clearkey": {
+                "keyId": "00f9f3c0783536b8342d78d46c8c202a",
+                "key": "8d2e953821d36c942161be09930d2bd4"
+            }
+        }
+    },
+    {
+        "id": "Infinity+ 4",
+        "name": "Infinity+ 4",
+        "category": "Sports",
+        "url": "https://live03p-seg.msf.cdn.mediaset.net/live/ch-u4/u4-dash-widevine.isml/manifest.mpd",
+        "drm": {
+            "clearkey": {
+                "keyId": "00f9f3c0783536b834357864bc2ae0a8",
+                "key": "ae7bec66e4ac23f3d243fa6e4d767a00"
+            }
+        }
+    },
+    {
+        "id": "Infinity+ 5",
+        "name": "Infinity+ 5",
+        "category": "Sports",
+        "url": "https://live03p-seg.msf.cdn.mediaset.net/live/ch-u5/u5-dash-widevine.isml/manifest.mpd",
+        "drm": {
+            "clearkey": {
+                "keyId": "00f9f3c0783536b834b278760c5ba026",
+                "key": "a9ab51a9e021da177f982de9b42eb0de"
+            }
+        }
+    },
+    {
+        "id": "Infinity+ 6",
+        "name": "Infinity+ 6",
+        "category": "Sports",
+        "url": "https://live03p-seg.msf.cdn.mediaset.net/live/ch-u6/u6-dash-widevine.isml/manifest.mpd",
+        "drm": {
+            "clearkey": {
+                "keyId": "00f9f3c0783536b834ba7888b9f960a4",
+                "key": "852ebe5446caa8fad99c440b86ad128c"
+            }
+        }
+    },
+    {
+        "id": "Peacock PL TV",
+        "name": "Peacock PL TV",
+        "category": "Sports",
+        "url": "https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd",
+        "drm": {
+            "clearkey": {
+                "keyId": "002046c9a49b9ab1cdb6616bec5d26c3",
+                "key": "d2f92f6b7edc9a1a05d393ba0c20ef9e"
+            }
+        }
+    },
+    {
+        "id": "SETANTA SPORTS 1",
+        "name": "SETANTA SPORTS 1",
+        "category": "Sports",
+        "url": "https://tr.live.cdn.cgates.lt/live/dash/561002/index.mpd",
+        "drm": {
+            "clearkey": {
+                "keyId": "8ab2332442854e62b0018eec3ee58484",
+                "key": "37fdee8b6eef5c96001e8c6fc47bfc08"
+            }
+        }
+    },
+    {
         "id": "DAZN 1",
         "name": "DAZN 1",
         "category": "Sports",
@@ -1192,6 +1288,36 @@
                 "key": "beab0589d5f15d4a56278c7df913b263"
             }
         }
+    },
+    {
+        "id": "MAKKAH",
+        "name": "MAKKAH",
+        "category": "Religion",
+        "url": "https://quraan-enc.edgenextcdn.net/out/v1/c83937d3ef504ec49b5acd0cf7339f29/index.mpd",
+        "drm": {
+            "clearkey": {
+                "keyId": "5321d2a153ab463dba1c60b9068165c6",
+                "key": "6c8194b07b1f2d114feb594d2ae6ee51"
+            }
+        }
+    },
+    {
+        "id": "MADINAH",
+        "name": "MADINAH",
+        "category": "Religion",
+        "url": "https://sunna-enc.edgenextcdn.net/out/v1/561f3a49088b47869fffb53d1412fe29/index.mpd",
+        "drm": {
+            "clearkey": {
+                "keyId": "3084383b39c3452b81ee0535bd381dee",
+                "key": "bf25afb0796a4a73f127f056c206800d"
+            }
+        }
+    },
+    {
+        "id": "MQTV",
+        "name": "MQTV",
+        "category": "Religion",
+        "url": "https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8"
     },
     {
         "id": "Muslim TV",
