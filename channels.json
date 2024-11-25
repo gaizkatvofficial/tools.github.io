@@ -1,70 +1,35 @@
-{
-    "channels": [
-        {
-            "name": "History",
-            "category": "Documentary",
-            "file": "https://av-ch-cdn.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd",
-            "drm": {
-                "clearkey": {
-                    "keyId": "2ccaa7d9731c2e69fa5344c5a547b836",
-                    "key": "d23fb6a3c73eb7ab8ad19ca841db0fb5"
-                }
-            }
-        },
-        {
-            "name": "iNews",
-            "category": "News",
-            "file": "https://av-ch-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd",
-            "drm": {
-                "clearkey": {
-                    "keyId": "a31cf5136789514b7e12b9cc99307c84",
-                    "key": "980e54d671ffc2b2f4cf54e75cae0ac2"
-                }
-            }
-        },
-        {
-            "name": "MNC TV",
-            "category": "Entertainment",
-            "file": "https://av-ch-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd",
-            "drm": {
-                "clearkey": {
-                    "keyId": "828e0aba9825c3546a2831e4c0c36f7f",
-                    "key": "f85d3dcd38981368ab3da597e97ebdcc"
-                }
-            }
-        },
-        {
-            "name": "GTV",
-            "category": "Entertainment",
-            "file": "https://av-ch-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd",
-            "drm": {
-                "clearkey": {
-                    "keyId": "88f6c7cbd793374cb5f12d7e26dcd63b",
-                    "key": "e82daa7c7bfb03d99327463fdbd37336"
-                }
-            }
-        },
-        {
-            "name": "Music TV",
-            "category": "Music",
-            "file": "https://av-ch-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd",
-            "drm": {
-                "clearkey": {
-                    "keyId": "0bea88ab972e06760a04712cc423d841",
-                    "key": "4039d607f88f1b1f677e4beb6ee66637"
-                }
-            }
-        },
-        {
-            "name": "Kids TV",
-            "category": "Kids",
-            "file": "https://av-ch-cdn.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd",
-            "drm": {
-                "clearkey": {
-                    "keyId": "17340c4223a4674b1b7da8d8d9e11174",
-                    "key": "11a73aad2c75ddf338840b08fb915993"
-                }
+[
+    {
+        "id": "channel1",
+        "name": "Live Streaming Channel 1",
+        "url": "https://av-ch-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd",
+        "drm": {
+            "clearkey": {
+                "keyId": "a31cf5136789514b7e12b9cc99307c84",
+                "key": "980e54d671ffc2b2f4cf54e75cae0ac2"
             }
         }
-    ]
-}
+    },
+    {
+        "id": "channel2",
+        "name": "Live Streaming Channel 2",
+        "url": "https://av-ch-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd",
+        "drm": {
+            "clearkey": {
+                "keyId": "828e0aba9825c3546a2831e4c0c36f7f",
+                "key": "f85d3dcd38981368ab3da597e97ebdcc"
+            }
+        }
+    },
+    {
+        "id": "channel3",
+        "name": "Live Streaming Channel 3",
+        "url": "https://av-ch-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd",
+        "drm": {
+            "clearkey": {
+                "keyId": "88f6c7cbd793374cb5f12d7e26dcd63b",
+                "key": "e82daa7c7bfb03d99327463fdbd37336"
+            }
+        }
+    }
+]
