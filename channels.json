@@ -2,6 +2,7 @@
     {
         "id": "channel1",
         "name": "Live Streaming Channel 1",
+        "category": "Berita",
         "url": "https://av-ch-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd",
         "drm": {
             "clearkey": {
@@ -13,6 +14,7 @@
     {
         "id": "channel2",
         "name": "Live Streaming Channel 2",
+        "category": "Sports",
         "url": "https://av-ch-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd",
         "drm": {
             "clearkey": {
@@ -24,6 +26,7 @@
     {
         "id": "channel3",
         "name": "Live Streaming Channel 3",
+        "category": "Hiburan",
         "url": "https://av-ch-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd",
         "drm": {
             "clearkey": {
