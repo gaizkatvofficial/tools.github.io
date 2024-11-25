@@ -18,6 +18,12 @@
         }
     },
     {
+        "id": "Metro TV",
+        "name": "Metro TV",
+        "category": "News",
+        "url": "https://op-group1-swiftservehd-1.dens.tv/h/h12/index.m3u8"
+    },
+    {
         "id": "iNews",
         "name": "iNews",
         "category": "News",
@@ -148,6 +154,12 @@
                 "key": "3e4efcec08d5d5c18a403b7048a43638"
             }
         }
+    },
+    {
+        "id": "TVRI Sports",
+        "name": "TVRI Sports",
+        "category": "Sports",
+        "url": "https://op-group1-swiftservesd-1.dens.tv/s/s107/index.m3u8"
     },
     {
         "id": "Infinity+ 1",
@@ -1432,6 +1444,30 @@
         "name": "SCTV",
         "category": "Local",
         "url": "https://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8"
+    },
+    {
+        "id": "Nusantara TV",
+        "name": "Nusantara TV",
+        "category": "Local",
+        "url": "https://op-group1-swiftservehd-1.dens.tv/h/h37/index.m3u8"
+    },
+    {
+        "id": "Rodja TV",
+        "name": "Rodja TV",
+        "category": "Local",
+        "url": "https://op-group1-swiftservehd-1.dens.tv/h/h233/index.m3u8"
+    },
+    {
+        "id": "JAKTV",
+        "name": "JAKTV",
+        "category": "Local",
+        "url": "https://op-group1-swiftservesd-1.dens.tv/s/s123/S4/mnf.m3u8"
+    },
+    {
+        "id": "JOWO CHANNEL",
+        "name": "JOWO CHANNEL",
+        "category": "Local",
+        "url": "https://op-group1-swiftservehd-1.dens.tv/h/h208/index.m3u8"
     },
     {
         "id": "Indosiar",
