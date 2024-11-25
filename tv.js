@@ -85,6 +85,7 @@ const jsonURL = '//gaizkatvofficial.github.io/tools.github.io/channels.json';
                 });
 
                 function loadPlayer(channel) {
+                    console.log('Loading player for channel:', channel); // Debug log
                     videoPlayer.innerHTML = '';
                     const playerDiv = document.createElement('div');
                     playerDiv.id = `player-${channel.id}`;
@@ -98,6 +99,7 @@ const jsonURL = '//gaizkatvofficial.github.io/tools.github.io/channels.json';
                     };
 
                     if (channel.drm && channel.drm.clearkey) {
+                        console.log('Using DRM with ClearKey:', channel.drm.clearkey); // Debug log
                         playerConfig.drm = {
                             clearkey: {
                                 keyId: channel.drm.clearkey.keyId,
@@ -107,6 +109,7 @@ const jsonURL = '//gaizkatvofficial.github.io/tools.github.io/channels.json';
                     }
 
                     jwplayer(playerDiv.id).setup(playerConfig);
+                    console.log('Player setup complete'); // Debug log
                 }
 
                 categoryList.value = 'all';
@@ -116,6 +119,11 @@ const jsonURL = '//gaizkatvofficial.github.io/tools.github.io/channels.json';
                 console.error("Failed to load channels:", error);
                 alert("Gagal memuat daftar channel. Silakan coba lagi nanti.");
             }
+        }
+
+        // Detect Telegram in-app browser
+        if (navigator.userAgent.includes("Telegram")) {
+            alert("Buka siaran ini di browser eksternal untuk pengalaman terbaik.");
         }
 
         document.addEventListener('DOMContentLoaded', loadChannels);
