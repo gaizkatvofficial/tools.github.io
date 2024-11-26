@@ -1,9 +1,81 @@
 [
     {
-        "id": "Basketball",
-        "name": "Sacramento Kings vs Oklahoma City Thunder",
-        "category": "NBA",
-        "url": "https://12a001a90a8c45927f7710a6ee02e8e6.v.smtcdns.net/play1nm.hnyongshun.cn/live/ballbar_39870.m3u8"
+        "id": "Asia",
+        "name": "Buriram vs Kawasaki Frontale",
+        "category": "AFC Champions League",
+        "url": "https://12a001a90a8c45927f7710a6ee02e8e6.v.smtcdns.net/play1nm.hnyongshun.cn/live/ballbar_38530.m3u8"
+    },
+    {
+        "id": "Asia",
+        "name": "Shandong Taishan vs Johor DT",
+        "category": "AFC Champions League",
+        "url": "https://12a001a90a8c45927f7710a6ee02e8e6.v.smtcdns.net/play1nm.hnyongshun.cn/live/ballbar_30220.m3u8"
+    },
+    {
+        "id": "Asia",
+        "name": "Al Shorta vs Al Wasl",
+        "category": "AFC Champions League",
+        "url": "https://12a001a90a8c45927f7710a6ee02e8e6.v.smtcdns.net/play1nm.hnyongshun.cn/live/ballbar_6350.m3u8"
+    },
+    {
+        "id": "Asia",
+        "name": "Al-Sadd vs Al Hilal",
+        "category": "AFC Champions League",
+        "url": "https://12a001a90a8c45927f7710a6ee02e8e6.v.smtcdns.net/play1nm.hnyongshun.cn/live/ballbar_18390.m3u8"
+    },
+    {
+        "id": "Europe",
+        "name": "Slovan Bratislava vs AC Milan",
+        "category": "Champions League",
+        "url": "https://12a001a90a8c45927f7710a6ee02e8e6.v.smtcdns.net/play1nm.hnyongshun.cn/live/ballbar_11480.m3u8"
+    },
+    {
+        "id": "Europe",
+        "name": "Sparta Prague vs Atl. Madrid",
+        "category": "Champions League",
+        "url": "https://12a001a90a8c45927f7710a6ee02e8e6.v.smtcdns.net/play1nm.hnyongshun.cn/live/ballbar_20540.m3u8"
+    },
+    {
+        "id": "Europe",
+        "name": "Barcelona vs Brest",
+        "category": "Champions League",
+        "url": "https://12a001a90a8c45927f7710a6ee02e8e6.v.smtcdns.net/play1nm.hnyongshun.cn/live/ballbar_31020.m3u8"
+    },
+    {
+        "id": "Europe",
+        "name": "Bayer Leverkusen vs Salzburg",
+        "category": "Champions League",
+        "url": "https://12a001a90a8c45927f7710a6ee02e8e6.v.smtcdns.net/play1nm.hnyongshun.cn/live/ballbar_36090.m3u8"
+    },
+    {
+        "id": "Europe",
+        "name": "Bayern Munich vs PSG",
+        "category": "Champions League",
+        "url": "https://12a001a90a8c45927f7710a6ee02e8e6.v.smtcdns.net/play1nm.hnyongshun.cn/live/ballbar_30280.m3u8"
+    },
+    {
+        "id": "Europe",
+        "name": "Inter vs RB Leipzig",
+        "category": "Champions League",
+        "url": "https://12a001a90a8c45927f7710a6ee02e8e6.v.smtcdns.net/play1nm.hnyongshun.cn/live/ballbar_28250.m3u8"
+    },
+    {
+        "id": "Europe",
+        "name": "Manchester City vs Feyenoord",
+        "category": "Champions League",
+        "url": "https://12a001a90a8c45927f7710a6ee02e8e6.v.smtcdns.net/play1nm.hnyongshun.cn/live/ballbar_27140.m3u8"
+    },
+    {
+        "id": "Europe",
+        "name": "Sporting CP vs Arsenal",
+        "category": "Champions League",
+        "url": "https://12a001a90a8c45927f7710a6ee02e8e6.v.smtcdns.net/play1nm.hnyongshun.cn/live/ballbar_33450.m3u8"
+    },
+    {
+        "id": "Europe",
+        "name": "Young Boys vs Atalanta",
+        "category": "Champions League",
+        "url": "https://12a001a90a8c45927f7710a6ee02e8e6.v.smtcdns.net/play1nm.hnyongshun.cn/live/ballbar_28640.m3u8"
     },
         {
         "id": "History",
