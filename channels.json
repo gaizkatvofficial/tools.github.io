@@ -5,30 +5,6 @@
         "category": "NBA",
         "url": "https://12a001a90a8c45927f7710a6ee02e8e6.v.smtcdns.net/play1nm.hnyongshun.cn/live/ballbar_38070.m3u8"
     },
-    {
-        "id": "NBA-2",
-        "name": "Miami Heat vs Milwaukee Bucks",
-        "category": "NBA",
-        "url": "https://12a001a90a8c45927f7710a6ee02e8e6.v.smtcdns.net/play1nm.hnyongshun.cn/live/ballbar_36200.m3u8"
-    },
-    {
-        "id": "NBA-3",
-        "name": "Minnesota Timberwolves vs Houston Rockets",
-        "category": "NBA",
-        "url": "https://12a001a90a8c45927f7710a6ee02e8e6.v.smtcdns.net/play1nm.hnyongshun.cn/live/ballbar_36560.m3u8"
-    },
-    {
-        "id": "NBA-4",
-        "name": "Utah Jazz vs San Antonio Spurs",
-        "category": "NBA",
-        "url": "https://12a001a90a8c45927f7710a6ee02e8e6.v.smtcdns.net/play1nm.hnyongshun.cn/live/ballbar_37080.m3u8"
-    },
-    {
-        "id": "NBA-5",
-        "name": "Phoenix Suns vs Los Angeles Lakers",
-        "category": "NBA",
-        "url": "https://12a001a90a8c45927f7710a6ee02e8e6.v.smtcdns.net/play1nm.hnyongshun.cn/live/ballbar_35860.m3u8"
-    },
         {
         "id": "History",
         "name": "History",
