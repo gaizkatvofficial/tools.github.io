@@ -1,0 +1,38 @@
+{
+  "categories": [
+    {
+      "name": "All Categories",
+      "id": "all"
+    },
+    {
+      "name": "Live Events",
+      "id": "live-events"
+    },
+    {
+      "name": "Sports",
+      "id": "sports"
+    },
+    {
+      "name": "Music",
+      "id": "music"
+    }
+  ],
+  "channels": {
+    "all": [
+      {"id": "1", "name": "Event Channel 1"},
+      {"id": "2", "name": "Event Channel 2"}
+    ],
+    "live-events": [
+      {"id": "101", "name": "Football Match"},
+      {"id": "102", "name": "Music Concert"}
+    ],
+    "sports": [
+      {"id": "201", "name": "Basketball Game"},
+      {"id": "202", "name": "Tennis Tournament"}
+    ],
+    "music": [
+      {"id": "301", "name": "Rock Festival"},
+      {"id": "302", "name": "Pop Concert"}
+    ]
+  }
+}
