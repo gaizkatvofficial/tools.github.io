@@ -1,0 +1,18 @@
+{
+    "matches": [
+        {
+            "id": 1,
+            "title": "Pertandingan Sepak Bola - Liga 1",
+            "teams": "Tim A vs Tim B",
+            "start_time": "1 jam",
+            "image_url": "https://via.placeholder.com/600x300",
+            "video_url": "https://av-ch-cdn.mncnow.id/live/eds/BEIN01/sa_dash_vmx/BEIN01.mpd",
+            "drm": {
+                "clearkey": {
+                    "keyId": "57d2ac9210cfbca3596cc679a01c8b29",  // KeyID
+                    "key": "ZDVlMzVjMGYzOWM3NmFkZjI0ODUzZDdlYTE4YzcxZTc=" // Kunci Base64
+                }
+            }
+        }
+    ]
+}
