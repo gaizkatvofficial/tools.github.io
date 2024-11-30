@@ -4,25 +4,33 @@
       "id": "FOOTBALL",
       "name": "Manchester United vs Liverpool",
       "category": "Premier League",
-      "url": "https://12a001a90a8c45927f7710a6ee02e8e6.v.smtcdns.net/play1nm.hnyongshun.cn/live/ballbar_5320.m3u8"
+      "url": "https://12a001a90a8c45927f7710a6ee02e8e6.v.smtcdns.net/play1nm.hnyongshun.cn/live/ballbar_5320.m3u8",
+      "date": "2023-11-25T19:30:00Z",
+      "description": "Pertandingan antara Manchester United dan Liverpool di Premier League 2023."
     },
     {
-      "id": "BADMINTON",
-      "name": "Badminton World Championship 2024",
-      "category": "Badminton",
-      "url": "https://12a001a90a8c45927f7710a6ee02e8e6.v.smtcdns.net/play1nm.hnyongshun.cn/live/ballbar_28970.m3u8"
+      "id": "BASKETBALL",
+      "name": "LA Lakers vs Golden State Warriors",
+      "category": "NBA",
+      "url": "https://someurl.com/stream/lakers_vs_warriors.m3u8",
+      "date": "2023-11-26T04:00:00Z",
+      "description": "Pertandingan NBA antara LA Lakers dan Golden State Warriors."
     },
     {
-      "id": "MOTO",
-      "name": "MotoGP 2024: Valencia Grand Prix",
-      "category": "MotoGP",
-      "url": "https://12a001a90a8c45927f7710a6ee02e8e6.v.smtcdns.net/play1nm.hnyongshun.cn/live/ballbar_28970.m3u8"
+      "id": "TENNIS",
+      "name": "Wimbledon Final 2023",
+      "category": "Tennis",
+      "url": "https://anotherurl.com/live/wimbledon_final.m3u8",
+      "date": "2023-07-16T14:00:00Z",
+      "description": "Final Wimbledon 2023 antara dua petenis top dunia."
     },
     {
-      "id": "F1",
-      "name": "Formula 1: Abu Dhabi Grand Prix",
+      "id": "FORMULA1",
+      "name": "Formula 1 Grand Prix Monaco 2023",
       "category": "Formula 1",
-      "url": "https://12a001a90a8c45927f7710a6ee02e8e6.v.smtcdns.net/play1nm.hnyongshun.cn/live/ballbar_28970.m3u8"
+      "url": "https://yetanotherurl.com/stream/f1_monaco_2023.m3u8",
+      "date": "2023-05-28T13:00:00Z",
+      "description": "Saksikan balapan Formula 1 di Monaco GP 2023."
     }
   ]
 }
