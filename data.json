@@ -9,8 +9,8 @@
             "video_url": "https://av-ch-cdn.mncnow.id/live/eds/BEIN01/sa_dash_vmx/BEIN01.mpd",
             "drm": {
                 "clearkey": {
-                    "keyId": "57d2ac9210cfbca3596cc679a01c8b29",  // KeyID
-                    "key": "ZDVlMzVjMGYzOWM3NmFkZjI0ODUzZDdlYTE4YzcxZTc=" // Kunci Base64
+                    "keyId": "57d2ac9210cfbca3596cc679a01c8b29",  
+                    "key": "ZDVlMzVjMGYzOWM3NmFkZjI0ODUzZDdlYTE4YzcxZTc=" 
                 }
             }
         }
