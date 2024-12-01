@@ -1,0 +1,9 @@
+{
+  "event": "Football Championship",
+  "date": "12 December 2024",
+  "time": "19:00 UTC",
+  "teams": ["Team A", "Team B"],
+  "location": "National Stadium",
+  "video_url": "https://lebo.huminbird.cn/live/ballbar_11380.m3u8",
+  "thumbnail_url": "https://path/to/your/thumbnail.jpg"
+}
