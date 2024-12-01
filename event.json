@@ -8,7 +8,7 @@
     "location": "National Stadium",
     "category": "Football",
     "video_url": "https://lebo.huminbird.cn/live/ballbar_11380.m3u8",
-    "thumbnail_url": "https://path/to/your/thumbnail1.jpg"
+    "thumbnail_url": "https://www.thesportsdb.com/images/media/event/thumb/fljb0l1718955085.jpg/small"
   },
   {
     "id": 2,
@@ -19,7 +19,7 @@
     "location": "City Arena",
     "category": "Basketball",
     "video_url": "https://lebo.huminbird.cn/live/ballbar_31060.m3u8",
-    "thumbnail_url": "https://path/to/your/thumbnail2.jpg"
+    "thumbnail_url": "https://www.thesportsdb.com/images/media/event/thumb/15i1f61718955086.jpg/small"
   },
   {
     "id": 3,
