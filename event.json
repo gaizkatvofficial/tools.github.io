@@ -2,7 +2,7 @@
   {
     "event": "Final Liga Champion 2024",
     "category": "Football",
-    "date": "2024-12-02",
+    "date": "02-12-2024",
     "time": "21:00",
     "teams": ["Real Madrid", "Liverpool"],
     "video_url": "https://lebo.huminbird.cn/live/ballbar_8980.m3u8"
@@ -10,7 +10,7 @@
   {
     "event": "Grand Prix F1 Monaco 2024",
     "category": "F1",
-    "date": "2024-12-02",
+    "date": "02-12-2024",
     "time": "16:00",
     "teams": ["Ferrari", "Mercedes"],
     "video_url": "https://lebo.huminbird.cn/live/ballbar_27990.m3u8"
@@ -18,7 +18,7 @@
   {
     "event": "Final NBA 2024",
     "category": "Basketball",
-    "date": "2024-12-02",
+    "date": "02-12-2024",
     "time": "03:00",
     "teams": ["Los Angeles Lakers", "Boston Celtics"],
     "video_url": "https://lebo.huminbird.cn/live/ballbar_25130.m3u8"
@@ -26,7 +26,7 @@
   {
     "event": "MotoGP Italian Grand Prix 2024",
     "category": "Motogp",
-    "date": "2024-12-02",
+    "date": "02-12-2024",
     "time": "19:00",
     "teams": ["Yamaha", "Honda"],
     "video_url": "https://lebo.huminbird.cn/live/ballbar_39210.m3u8"
