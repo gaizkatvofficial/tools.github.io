@@ -4,7 +4,7 @@
       "name": "News",
       "channels": [
         {
-          "name": "GTV",
+          "name": "KompasTV",
           "url": "https://av-ch-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd",
           "drm": {
             "key": "695cf9896182c52f1c3a25820e7778f5",
